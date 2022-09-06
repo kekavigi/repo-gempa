@@ -2,12 +2,18 @@ import datetime
 from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 
 # initiate
-driver = webdriver.Firefox(executable_path='./geckodriver')
+options = Options()
+options.headless = True
+driver = webdriver.Firefox(
+    executable_path='./geckodriver',
+    options=options)
 
-start = datetime.date(2021, 6, 10)   # starting date
-ended = datetime.date(2022, 2, 14)   # end date
+start = datetime.date(2022, 6, 17)   # starting date
+ended = datetime.date(2022, 9,  1)   # end date
 delta = datetime.timedelta(days=1)
 
 URL = 'http://repogempa.bmkg.go.id/repo_new/'
@@ -24,22 +30,22 @@ def retrieve(sY, sM, sD, eY, eM, eD):
                  'end_day'    : '{:>02d}'.format(eD)}
 
     for k, v in parameter.items():
-        elmt = driver.find_element_by_name(k)
+        elmt = driver.find_element(by=By.NAME, value=k)
         elmt.clear()
         elmt.send_keys(v)
 
-    elmt = driver.find_element_by_name('Submit')
+    elmt = driver.find_element(by=By.NAME, value='Submit')
     elmt.send_keys(Keys.RETURN)
-    
+
     # loading this page need a lot of time
     sleep(3)
 
     try:
-        while driver.find_element_by_tag_name('meta'):
+        while driver.find_element(by=By.TAG_NAME, value='meta'):
             # wait for page loading all of its contents
             print(end='.')
             sleep(1)
-    except:
+    except Exception:
         pass
     finally:
         print()
@@ -55,6 +61,6 @@ while start < ended:
     tummo = start + delta
     retrieve(start.year, start.month, start.day,
              tummo.year, tummo.month, tummo.day)
-    date = tummo
+    start = tummo
     
 driver.close()
