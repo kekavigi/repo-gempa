@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "repo-gempa"
+version = "0.1.0"
+description = ""
+authors = ["Agapitus Keyka Vigiliant <keka.vigi@gmail.com>"]
+license = "MIT License"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipykernel = "^6.15.0"
+pandas = "^1.4.2"
+tqdm = "^4.64.0"
+selenium = "^4.2.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
