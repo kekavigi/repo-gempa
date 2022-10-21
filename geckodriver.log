@@ -650,3 +650,77 @@ JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeE
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://repogempa.bmkg.go.id"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
 1644861235490	Marionette	INFO	Stopped listening on port 37075
+1666329197398	geckodriver	INFO	Listening on 127.0.0.1:56717
+1666329512449	geckodriver	INFO	Listening on 127.0.0.1:56826
+1666329515550	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileYmKogk"
+*** You are running in headless mode.
+1666329515920	Marionette	INFO	Marionette enabled
+1666329515925	Marionette	INFO	Listening on port 56836
+WebDriver BiDi listening on ws://127.0.0.1:56827
+Read port: 56836
+1666329516119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileYmKogk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56827/devtools/browser/b47705b1-ee7b-407c-8d7e-a0fa0bcadbc2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1666330744701	Marionette	INFO	Stopped listening on port 56836
