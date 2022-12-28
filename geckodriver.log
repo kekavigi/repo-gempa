@@ -724,3 +724,212 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://r
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
 1666330744701	Marionette	INFO	Stopped listening on port 56836
+1669006064489	geckodriver	INFO	Listening on 127.0.0.1:58230
+1669006067528	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofilevhvpaJ"
+*** You are running in headless mode.
+1669006068367	Marionette	INFO	Marionette enabled
+1669006068371	Marionette	INFO	Listening on port 58241
+Read port: 58241
+WebDriver BiDi listening on ws://127.0.0.1:58231
+1669006068494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofilevhvpaJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58231/devtools/browser/cf543cf6-3566-478a-9ed6-0dbf28e7627d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-providers Signature failed again InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-providers)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed again InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/doh-config)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1669006793963	Marionette	INFO	Stopped listening on port 58241
+1669701318697	geckodriver	INFO	Listening on 127.0.0.1:49730
+1669701321740	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileu14GYe"
+*** You are running in headless mode.
+1669701322116	Marionette	INFO	Marionette enabled
+1669701322120	Marionette	INFO	Listening on port 49740
+WebDriver BiDi listening on ws://127.0.0.1:49731
+Read port: 49740
+1669701322308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileu14GYe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49731/devtools/browser/25749f4c-7718-4151-b0ed-3950d432c589
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1669701350221	geckodriver	INFO	Listening on 127.0.0.1:49775
+1669701353289	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "49776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofilepGUIca"
+*** You are running in headless mode.
+1669701353516	Marionette	INFO	Marionette enabled
+1669701353519	Marionette	INFO	Listening on port 49785
+WebDriver BiDi listening on ws://127.0.0.1:49776
+Read port: 49785
+1669701353688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofilepGUIca\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49776/devtools/browser/f0d9bb67-3d0b-4b0e-80db-15747b843d0a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1669701924243	Marionette	INFO	Stopped listening on port 49785
+1670073393370	geckodriver	INFO	Listening on 127.0.0.1:58552
+1670073396430	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileqV8HEs"
+*** You are running in headless mode.
+1670073396981	Marionette	INFO	Marionette enabled
+1670073396986	Marionette	INFO	Listening on port 58562
+WebDriver BiDi listening on ws://127.0.0.1:58553
+Read port: 58562
+1670073397259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofileqV8HEs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58553/devtools/browser/bfdb41df-1c71-4601-a596-cd9c49b213dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1670073548995	Marionette	INFO	Stopped listening on port 58562
+[Parent 13564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1671709804217	geckodriver	INFO	Listening on 127.0.0.1:58078
+1671709807273	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "58079" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofile9EdbhC"
+*** You are running in headless mode.
+1671709807812	Marionette	INFO	Marionette enabled
+1671709807817	Marionette	INFO	Listening on port 58088
+Read port: 58088
+WebDriver BiDi listening on ws://127.0.0.1:58079
+1671709807933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kekav\\AppData\\Local\\Temp\\rust_mozprofile9EdbhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58079/devtools/browser/2e4d0734-7e21-46fc-b1ad-7f7504054fa4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://repogempa.bmkg.go.id."
+1671710213568	Marionette	INFO	Stopped listening on port 58088

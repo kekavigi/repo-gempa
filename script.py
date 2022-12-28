@@ -4,16 +4,18 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 # initiate
 options = Options()
 options.headless = True
+binary = FirefoxBinary('C:/Program Files/Mozilla Firefox/firefox.exe')
 driver = webdriver.Firefox(
-    executable_path='./geckodriver',
+    firefox_binary=binary,
     options=options)
 
-start = datetime.date(2022, 6, 17)   # starting date
-ended = datetime.date(2022, 9,  1)   # end date
+start = datetime.date(2022, 11, 30)   # starting datec
+ended = datetime.date(2022, 12, 18)   # end date
 delta = datetime.timedelta(days=1)
 
 URL = 'http://repogempa.bmkg.go.id/repo_new/'
@@ -44,7 +46,7 @@ def retrieve(sY, sM, sD, eY, eM, eD):
         while driver.find_element(by=By.TAG_NAME, value='meta'):
             # wait for page loading all of its contents
             print(end='.')
-            sleep(1)
+            sleep(2)
     except Exception:
         pass
     finally:
