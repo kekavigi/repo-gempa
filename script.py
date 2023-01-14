@@ -14,8 +14,8 @@ driver = webdriver.Firefox(
     firefox_binary=binary,
     options=options)
 
-start = datetime.date(2022, 12, 17)   # starting datec
-ended = datetime.date(2023,  1,  1)   # end date
+start = datetime.date(2023, 1, 1)   # starting datec
+ended = datetime.date(2023, 1, 12)   # end date
 delta = datetime.timedelta(days=1)
 
 URL = 'http://repogempa.bmkg.go.id/repo_new/'
@@ -58,7 +58,7 @@ def retrieve(sY, sM, sD, eY, eM, eD):
         f.write(driver.page_source)
 
 
-while start < ended:
+while start <= ended:
     print(start)
     tummo = start + delta
     retrieve(start.year, start.month, start.day,
