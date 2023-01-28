@@ -14,8 +14,8 @@ driver = webdriver.Firefox(
     firefox_binary=binary,
     options=options)
 
-start = datetime.date(2023, 1, 1)   # starting datec
-ended = datetime.date(2023, 1, 12)   # end date
+start = datetime.date(2023, 1, 12)   # starting datec
+ended = datetime.date(2023, 1, 26)   # end date
 delta = datetime.timedelta(days=1)
 
 URL = 'http://repogempa.bmkg.go.id/repo_new/'
