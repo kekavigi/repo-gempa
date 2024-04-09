@@ -22,582 +22,619 @@
 20	ASTTI	-10.068	124.299	180.0	Amanuban Selatan, Timor Tengah Selatan, Nusa Tenggara Timur	2022-09-22T07:45:29.525
 21	ATKTI	-9.425	124.09	168.0	Amfoang Timur, Kupang, Nusa Tenggara Timur	2022-09-22T07:45:29.525
 22	ATNI	-9.0835	124.8644	404.62	Station Atambua, BMG, Indonesia	2012-01-01T00:00:00
-23	BAJI	-7.09057	112.70853	76.0	Station Type B Bangkalan,Jawa Timur,Jawa Timur	2019-01-01T00:00:00
-24	BAKI	-1.19145	136.10702	89.0	Station Biak, Indonesia	2005-01-01T00:00:00
-25	BAPJI	-7.912	111.305	244.0	Badegan, Ponorogo, Jawa Timur	2023-07-04T12:00:00
-26	BASAI	2.307	97.407	15.0	Pulau Banyak Barat, Aceh Singkil, Aceh	2023-12-20T00:00:00
-27	BASI	-10.2189	120.5777	80.84	Station Baing, Sumba, Indonesia (BMKG)	2009-01-01T00:00:00
-28	BASN	4.160618	96.115675	0.0	Noncollocated_DS(Seismotek)  Aceh Barat	2020-11-17T00:00:00
-29	BATI	-10.2065	123.6633	356.11	Station Kupang, Timor	2007-01-01T00:00:00
-30	BATPI	-2.5427	133.4455	17.0	Babo, Teluk Bintuni, Papua Barat	2023-08-05T07:45:29.525
-31	BBBCM	-5.5771	120.448	87.0	Station Type MR, Sulawesi Bonto Bahari, Selatan	2019-11-01T00:00:00
-32	BBBR	-8.60699	115.17778	20.0	REIS Badung	2018-07-02T00:00:00
-33	BBCI	1.158027	121.436232	8.0	Station Type A,Biau,Buol,Sulawesi Tengah	2019-01-01T00:00:00
-34	BBCM	-5.0392	120.058	546.0	Type MR, Bontocani,Bone,Sulawesi Selatan	2019-01-01T00:00:00
-35	BBJI	-7.462603	107.65	615.0	BMG-Net, Indonesia (IA-Net)	2016-09-05T00:00:00
-36	BBJM	-7.326	111.8099	175.0	Type MR, Bubulan,Bojonegoro,Jawa Timur	2019-01-01T00:00:00
-37	BBJN	-7.3638	108.5319	79.0	Noncollocated_DS(Seismotek) Banjar	2020-11-17T00:00:00
-38	BBKI	-3.4625	114.8411	109.88	Station Banjar Baru, Kalimantan	2007-01-01T00:00:00
-39	BBLSI	-1.637539	123.52168	142.0	Type A, Banggai Tengah, Banggai Laut, Sulawesi Tengah	2022-09-22T07:45:29.525
-40	BBSI	-5.4885	122.56	95.0	Station Bau Bau, Buton	2007-01-01T00:00:00
-41	BBSI	-5.4879	122.5706	95.0	Station Bau Bau, Buton	2015-12-20T00:00:00
-42	BBSN	-0.2859	101.3661	879.0	Noncollocated_DS(Seismotek) Bukittinggi	2020-11-17T00:00:00
-43	BDBI	-8.52	115.2088	186.0	Badung,  Bali,  Indonesia	2021-11-26T00:00:00
-44	BDCM	-0.872636	119.586757	18.0	Type MR, Banawa Selatan ,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-45	BDMUI	1.322	126.362	12.0	Pulau Batang Dua, Ternate, Maluku Utara	2022-09-22T07:45:29.525
-46	BESI	4.719933	96.86546	1372.0	Station Type A, Bukit,Bener Meriah,Aceh	2019-01-01T00:00:00
-47	BESM	4.151615	96.325344	646.0	Type MR, Beutong,Nagan Raya,Aceh	2019-01-01T00:00:00
-48	BGASI	3.983	97.315	1078.0	Blang Kejeren, Gayo Lues, Aceh	2022-09-22T07:45:29.525
-49	BGCI	-0.8816	123.3911	11.0	Station Type A, Balantak,Banggai,Sulawesi Tengah	2019-01-01T00:00:00
-50	BGCM	-0.049644	119.880075	18.0	Type MR, Balaesang,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-51	BHCM	-2.7965	122.1259	11.0	Type MR, Bahodopi,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
-52	BJI	-7.3329	109.7096	629.0	Station Banjarnegara, Indonesia	2005-01-01T00:00:00
-53	BKASI	-0.202	100.318	853.0	Gaw Bukit Koto, Agam, Sumatera Barat	2022-09-22T07:45:29.525
-54	BKB	-1.1073	116.9048	110.0	GEOFON Station Balikpapan, Kalimantan, Indonesia	2005-12-06T00:00:00
-55	BKJI	-7.3633	108.5322	84.0	Station Type B Banjar,Kota Banjar,Jawa Barat	2019-01-01T00:00:00
-56	BKNI	0.3262	101.0396	65.0	GEOFON Station Bangkinang, Sumatra, Indonesia	2008-04-29T00:00:00
-57	BKSI	-5.3219	120.1224	606.0	Station Bulukumba, Sulawesi	2008-01-01T00:00:00
-58	BLCM	-0.122934	119.687071	11.0	Type MR, Balaesang Tanjung ,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-59	BLJI	-7.745	113.595	80.85	Station Banyuglugur, Java	2008-01-01T00:00:00
-60	BLSI	-5.3676	105.2452	146.79	Station Bandar Lampung, Sumatra	2007-01-01T00:00:00
-61	BLSM	-3.140218	102.8072	67.0	Type MR, Batukuning Lakitan Ulu,Musi Rawas,Sumatera Selatan	2019-01-01T00:00:00
-62	BMBNG	-6.66347	110.8839	1029.0	Station Type B Ternadi, Dawe, Kudus, Jawa Tengah	2021-12-31T00:00:00
-63	BMNI	-8.54	118.6926	62.95	Station Bima, Sumbawa	2007-01-01T00:00:00
-64	BMSI	-2.06641	102.31544	135.0	Station Type B Bangko,Merangin,Jambi	2019-01-01T00:00:00
-65	BNDI	-4.5224	129.9045	16.0	GEOFON Station Bandaneira, Indonesia	2008-07-04T00:00:00
-66	BNSI	-4.4006	120.1065	261.0	Station Bone, Sulawesi	2008-01-01T00:00:00
-67	BNTI	-8.7881	120.9768	1186.0	Station Type A, Bajawa,Ngada,Nusa Tenggara Timur	2019-01-01T00:00:00
-68	BOJI	-7.56815	110.68936	196.0	Station Type B Sawit,Boyolali,Jawa Tengah	2019-01-01T00:00:00
-69	BOSM	-4.859183	104.020736	640.0	Type MR, Banding Agung,Oku Selatan,Sumatera Selatan	2019-01-01T00:00:00
-70	BPJI	-7.81045	109.99712	64.0	Station Type B Bagelen,Purworejo,Jawa Tengah	2019-01-01T00:00:00
-71	BPMJM	-6.9505233	113.4922383	270.5	Station Type MR, Batumarmar, Pamekasan, Jawa Timur	2020-01-01T00:00:00
-72	BPSM	-1.1924	100.58998	110.0	Type MR, Bayang,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
-73	BSI	5.4964	95.2961	192.0	Station Banda Aceh, Indonesia	2005-01-01T00:00:00
-74	BSMI	-3.1075	130.4939	104.0	Station Bula, Maluku, Indonesia (BMKG)	2016-11-26T00:00:00
-75	BSSI	-6.1428	120.4904	114.3	Station Benteng, P.Selayar, Indonesia (BMKG)	2009-01-01T00:00:00
-76	BTCM	-2.4768	121.9241	21.0	Type MR, Bungku Tengah,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
-77	BTJI	-7.1972	109.1641	942.0	Station Type B Bumi Jawa,Tegal,Jawa Tengah	2019-01-01T00:00:00
-78	BTSPI	-2.3779	139.7042	32.0	Bonggo Timur, Sarmi, Papua	2022-09-22T07:45:29.525
-79	BTSR	-3.81942	102.29994	28.0	REIS Bengkulu	2018-01-02T00:00:00
-80	BUBSI	-0.855	122.207	39.0	Bunta, Banggai, Sulawesi Tengah	2022-09-22T07:45:29.525
-81	BUJI	-7.75603	109.46133	57.0	Station Type B Buayan,Kebumen,Jawa Tengah	2019-01-01T00:00:00
-82	BUKI	1.25	118.07	0.0	Berau,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
-83	BUMSI	-1.977807	121.334629	121.0	Station Type A, Bungku Utara, Morowali, Sulawesi Tengah	2022-09-22T07:45:29.525
-84	BUSI	5.2445125	96.243038	6.0	Station Type A, Bandar Baru,Pidie Jaya,Aceh	2019-01-01T00:00:00
-85	BUSN	3.61	98.495	0.0	Noncollocated_DS(Seismotek) Binjai	2020-11-17T00:00:00
-86	BWJI	-5.8511	112.6578	57.56	Station Bawean, BMG	2007-01-01T00:00:00
-87	BYJI	-8.214	114.3557	99.5	Station Banyu Wangi, Java	2008-01-01T00:00:00
-88	BYLI	-8.2273	116.4201	25.0	Station Type A, Bayan,Lombok Utara ,Nusa Tenggara Barat	2019-01-01T00:00:00
-89	CASI	4.62879	95.57668	11.0	Calang, Sumatra, Indonesia	2018-10-22T00:00:00
-90	CBJI	-6.6981	106.9349	1006.39	Station Citeko, Indonesia	2006-01-01T00:00:00
-91	CBJM	-6.93085	107.35624	679.0	Type MR, Cipongkor,Bandung Barat,Jawa Barat	2019-01-01T00:00:00
-92	CCJM	-7.01692	107.14019	48.0	Type MR, Campaka,Cianjur,Jawa Barat	2019-01-01T00:00:00
-93	CGJI	-6.6134	105.69	182.0	Station Cigeulis, Java	2008-01-01T00:00:00
-94	CIJI	-7.31741	108.19589	418.0	Station Type B Cipedes,Kota Tasikmalaya,Jawa Barat	2019-01-01T00:00:00
-95	CIJM	-6.492453	108.185243	43.0	Type MR, Cikedung,Indramayu,Jawa Barat	2019-01-01T00:00:00
-96	CIKJI	-6.041905	107.347389	26.0	Cibuaya, Karawang, Jawa Barat	2023-11-28T00:00:00
-97	CILJI	-7.72497	109.02293		Tide Gauge network	2016-07-01T00:00:00
-98	CILJI	-6.822	106.316	332.0	Cibeber, Lebak, Banten	2022-09-22T07:45:29.525
-99	CISI	-7.5557	107.8153	544.0	GEOFON Station Cisomped, Java, Indonesia	2008-07-21T00:00:00
-100	CLJI	-7.7187	109.015	45.73	Station Cilacap, Java	2007-01-01T00:00:00
-101	CMJI	-7.784	108.449	78.0	Station Cimerak, Java	2008-01-01T00:00:00
-102	CMJN	-7.3278	108.3632	217.0	BPBD Ciamis	2018-01-01T00:00:00
-103	CNJI	-7.309	107.1296	589.0	Station Cibinong, Java	2008-01-01T00:00:00
-104	CPPU	-6.4999	107.0669	152.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
-105	CSBJI	-6.404687	107.881737	50.6	Compreng, Subang, Jawa Barat	2023-11-23T10:30:00
-106	CSJI	-7.3302	106.521	153.0	Station Type B Ciracap,Sukabumi,Jawa Barat	2019-01-01T00:00:00
-107	CSJM	-6.74052	108.0099	361.0	Type MR, Congeang,Sumedang,Jawa Barat	2019-01-01T00:00:00
-108	CTJI	-7.00754	109.18356	104.0	Station Waduk Cacaban, Java, BMG, Indonesia	2007-01-01T00:00:00
-109	CWJM	-6.74236	107.44486	649.0	Type MR, Cikalong Wetan,Bandung Barat,Jawa Barat	2019-01-01T00:00:00
-110	DASN	3.7314	96.8489	0.0	Noncollocated_DS(Seismotek) Aceh Barat Daya	2020-11-17T00:00:00
-111	DBJI	-6.5538	106.7497	210.84	Station Dramaga, Java	2007-01-01T00:00:00
-112	DBKI	-1.6792	114.9079	32.0	Station Type A, Dusun Selatan,Barito Selatan,Kalimantan Tengah	2019-01-01T00:00:00
-113	DBNFM	-8.424084	118.594821	696.0	Station Type MR, Donggo, Nusa Tenggara Barat	2020-11-01T00:00:00
-114	DBNI	-8.50188	118.31213	185.0	Station Kabupaten Dompu, Sumbawa, BMG, Indonesia	2007-01-01T00:00:00
-115	DDSI	1.6675	101.4602	76.0	Station Type A, Dumai Timur Riau	2019-01-01T00:00:00
-116	DEBI	-8.738	115.179	0.0	BALAI BESAR WIL III DENPASAR	2007-01-01T00:00:00
-117	DEMO	-8.741	115.177	43.0	STA MET NGURAH RAI DENPASAR	2007-01-01T00:00:00
-118	DNP	-8.6774	115.2097	63.88	Station Denpasar, Indonesia	2006-01-01T00:00:00
-119	DNPB	-8.73838	115.17846	45.1	DNPB	2019-01-01T00:00:00
-120	DOCM	-0.675868	119.74873	50.0	Type MR, Donggala,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-121	DSRI	-0.4793	104.5778	58.43	Station Dabo, Singkep	2007-01-01T00:00:00
-122	DWIKO	-8.0102	110.414	361.0	Station Type MR, Panggang, Gunung Kidul, DIY	2020-10-01T00:00:00
-123	DYPI	-4.8521	139.4991	87.0	Station Type A, Dekai,Yakuhimo,Papua	2019-01-01T00:00:00
-124	EDFI	-8.7497	121.6903	914.34	Station Ende, Flores, Indonesia (BMKG)	2009-01-01T00:00:00
-125	EDMPI	-7.175	139.585	15.0	Edera, Mappi, Papua	2023-08-15T07:45:29.525
-126	EGSI	-5.3526	102.2767	35.73	Station Enggano, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
-127	ELMPI	-7.489	140.789	51.0	Eligobel, Merauke, Papua	2022-09-22T07:45:29.525
-128	ERPI	-3.926867	136.380947	1675.0	Enarotali, East Paniai, Papua	2017-12-01T00:00:00
-129	ESNI	-8.85	117.96	0.0	Empang,  Sumbawa,  Nusat  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-130	FAKI	-2.9192	132.265	0.0	GEOFON Station Fakfak, Indonesia	2008-11-26T00:00:00
-131	FKMPM	-8.2515	140.2666	95.0	Station Type MR, Kurik, Merauke, Papua	2020-10-01T00:00:00
-132	FKSPI	-1.1594	132.016	139.0	Fkour, Sorong Selatan, Papua Barat	2022-09-22T07:45:29.525
-133	GARPI	-0.43465	129.9	49.0	Pulau Gag, Raja Ampat, Papua Barat	2023-08-03T07:45:29.525
-134	GBJI	-6.9485	109.966	102.0	Station Type B Gringsing,Batang,Jawa Tengah	2019-01-01T00:00:00
-135	GBJO	-6.83	107.63	211.0	LEMBANG - VSAT	2014-01-01T00:00:00
-136	GEBBI	-8.164	114.714	33.0	Gerokgak, Buleleng, Bali	2022-09-22T07:45:29.525
-137	GEJI	-8.41019	112.64507	80.0	Station Type B Gedangan,Malang,Jawa Timur	2019-01-01T00:00:00
-138	GENI	-2.59268	140.167757	58.0	GEOFON Station Genyem, Indonesia	2009-11-26T00:00:00
-139	GESM	4.8421	96.1278	1034.0	Type MR, Geumpang,Pidie,Aceh	2019-01-01T00:00:00
-140	GGJI	-7.03022	110.92097	82.0	Station Type B Grobogan,Grobogan,Jawa Tengah	2019-01-01T00:00:00
-141	GGJM	-7.1717	111.2037	81.0	Type MR, Gabus,Grobogan,Jawa Tengah	2019-01-01T00:00:00
-142	GHMI	-0.35629	127.8797	37.0	Station Type A, Gane Barat,Halmahera Selatan,Maluku Utara	2019-01-01T00:00:00
-143	GKJM	-7.8411	110.5922	211.0	Type MR, Gedangsari,Gunung Kidul,D.I Yogyakarta	2019-01-01T00:00:00
-144	GLMI	1.8381	127.7879	130.21	Station Galela, Maluku, Indonesia (BMKG)	2009-01-01T00:00:00
-145	GMJI	-8.2732	113.4441	80.13	Station Gumukmas, Java	2008-01-01T00:00:00
-146	GPSM	4.869343	96.090448	417.0	Type MR, Geumpang,Pidie,Aceh	2019-01-01T00:00:00
-147	GRJI	-6.9145	112.4793	97.14	Station Gresik, Java	2008-01-01T00:00:00
-148	GSI	1.3039	97.5755	107.0	GEOFON Station Gunungsitoli, Nias	2005-10-02T00:00:00
-149	GTJI	-7.163845	110.183745	749.0	Station Type B, Gemawang Temanggung	2021-12-31T00:00:00
-150	GTOI	0.7628	122.87	313.3	Station Gorontalo China	2006-12-01T00:00:00
-151	GTSI	-0.5981	101.4888	9.0	Station Type A, Gunung Toar,Kuantan Singingi,Riau	2019-01-01T00:00:00
-152	GUJM	-7.0544	110.666	85.0	Type MR, Gubug,Grobogan,Jawa Tengah	2019-01-01T00:00:00
-153	HINSI	-0.54	98.499	35.0	Hibala, Nias Selatan, Sumatera Utara	2022-09-22T07:45:29.525
-154	IATSM	4.92405	97.784545	28.0	Station Type MR, Idi, Aceh Timur, Sumatera	2020-10-01T00:00:00
-155	IBTI	-8.3894	123.2645	154.0	Station Type A, Ile Boleng,Flores Timur,Nusa Tenggara Timur	2019-01-01T00:00:00
-156	IGBI	-8.818	115.146	248.0	Station Ingas Bali China	2006-01-01T00:00:00
-157	IHMI	1.508213	127.555625	130.0	Station Type A, Ibu,Halmahera Barat,Maluku Utara	2019-01-01T00:00:00
-158	IHRSI	0.02	103.17	0.0	Indragiri Hilir, Riau, Sumatera Indonesia	2021-11-26T00:00:00
-159	IWPI	-2.7581	134.5162	36.0	Station Type A, Rasiei,Teluk Wondama,Papua Barat	2019-01-01T00:00:00
-160	JAASI	3.766	96.82	12.0	Jeumpa, Aceh Barat Daya, Aceh	2022-09-22T07:45:29.525
-161	JAGI	-8.4703	114.152	171.0	GEOFON Station Jajag, Java, Indonesia	2008-07-21T00:00:00
-162	JASI	-1.41453	101.45838	253.0	Station Type B Sangir Balai Janggo,Solok Selatan,Sumatera Barat	2019-01-01T00:00:00
-163	JASN	4.63568	95.58216	24.0	Noncollocated_DS(Seismotek) Aceh Jaya	2020-11-16T00:00:00
-164	JAY	-2.5145	140.7043	461.46	Station Jayapura, Indonesia	2006-01-01T00:00:00
-165	JBJI	-6.48374	106.46986	146.0	Station Type B Jasinga,Bogor,Jawa Barat	2019-01-01T00:00:00
-166	JBJM	-6.9729	111.4587	98.0	Type MR, Jepon,Blora,Jawa Tengah	2019-01-01T00:00:00
-167	JCJI	-6.7344	108.2631	85.57	Station Jatiwangi, Indonesia	2006-01-01T00:00:00
-168	JHMI	1.082067	127.47828	36.0	Station Type A, Jailolo,Halmahera Barat,Maluku Utara	2019-01-01T00:00:00
-169	JMBI	-1.6764	103.576	76.1	Station Jambi China	2006-01-01T00:00:00
-170	JMSI	-2.63715	101.88745	1275.0	Station Type B Jangkat,Merangin,Jambi	2019-01-01T00:00:00
-171	JPJI	-6.5307	107.4175	150.0	Station Type B Jatiluhur,Purwakarta,Jawa Barat	2019-01-01T00:00:00
-172	JPSI	-1.34164	100.58645	38.0	Station Type B Jurai,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
-173	JSBFM	-8.8716567	116.8164717	79.0	Station Type MR, Jereweh, Nusa Tenggara Barat	2020-01-01T00:00:00
-174	JTJM	-7.0573	106.8015	528.0	Type MR, Jampang Tengah,Sukabumi,Jawa Barat	2019-01-01T00:00:00
-175	JTPU	-6.523	107.388	152.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
-176	JWJM	-7.206245	110.731458	74.0	Type MR, Juwangi ,Boyolali,Jawa Tengah	2019-01-01T00:00:00
-177	KARPI	-0.061	130.991	21.0	Kabare, Raja Ampat, Papua Barat	2023-08-04T07:45:29.525
-178	KASAI	2.491893	97.858239	4.0	Station Type A, Kota Baharu, Aceh Singkil, Aceh	2022-09-22T07:45:29.525
-179	KASI	-5.5236	104.4967	50.0	Station Kota Agung, Sumatra	2008-01-01T00:00:00
-180	KBBI	-8.286	115.2547	1053.0	Station Type B Kintamani,Bangli,Bali	2019-01-01T00:00:00
-181	KBJM	-7.0505	111.2329	62.0	Type MR, Kunduran,Blora,Jawa Tengah	2019-01-01T00:00:00
-182	KBKI	-3.2995	116.1668	65.0	Station Kotabaru, Kalimantan	2008-01-01T00:00:00
-183	KBSSI	-9.593	118.993	22.0	Kodi Bangedo, Sumba Barat Daya, Nusa Tenggara Timur	2023-07-27T07:45:29.525
-184	KCJN	-7.7019	110.5965	190.0	Noncollocated_DS(Seismotek) Klaten	2020-10-28T00:00:00
-185	KCSI	3.522	97.7715	204.749	Station Kotacane, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
-186	KDI	-3.95743	122.61926	55.0	Station Kendari, Sulawesi	2006-12-26T00:00:00
-187	KGCM	0.639702	122.851648	32.0	Type MR, Kwandang,Gorontalo,Gorontalo	2019-01-01T00:00:00
-188	KHK	-8.36404	115.60964	220.0	Station Kahang-Kahang, Bali	2007-04-03T00:00:00
-189	KHSSI	-9.801	119.945	608.0	Katala Hamu Lingu, Sumba Timur, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-190	KIMPI	-7.979	138.852	8.0	Kimaam, Merauke, Papua	2023-08-21T07:45:29.525
-191	KJCM	-5.5646	119.8026	199.0	Station Type MR, Kelara, Sulawesi Selatan	2019-11-01T00:00:00
-192	KKJM	-7.843384	110.057248	115.0	Type MR, Kokap, Kulon Progo, D.I Yogyakarta	2023-11-30T10:00:00
-193	KKJR	-7.84773	110.16858	29.0	REIS Kulon progo	2018-07-02T00:00:00
-194	KKKI	-2.5137	110.1951	39.0	Station Type A, Kendawangan,Ketapang,Kalimantan Barat	2019-01-01T00:00:00
-195	KKKKI	-1.871143	113.419801	79.0	Station Type A, Katingan Kuala, Katingan, Kalimantan Tengah	2022-09-22T07:45:29.525
-196	KKMI	-5.6923	132.718	72.0	Station Type A, Kei Kecil,Maluku Tenggara,Maluku	2019-01-01T00:00:00
-197	KKSI	-4.1718	121.6513	89.03	Station Kolaka, Sulawesi, Indonesia (BMKG)	2009-01-01T00:00:00
-198	KKTKI	1.186094	116.949317	113.0	Station Type A, Kombeng, Kutai Timur, Kalimantan Timur	2022-09-22T07:45:29.525
-199	KLI	-4.8363	104.87052	64.0	Station Kotabumi, Indonesia	2006-01-01T00:00:00
-200	KLJI	-7.99607	113.25175	240.0	Station Type B Klakah,Lumajang,Jawa Timur	2019-01-01T00:00:00
-201	KLNI	-8.42188	116.09492	99.0	Station Mataram, Plombok, BMG, Indonesia	2007-01-01T00:00:00
-202	KLSI	-4.6871	104.7317	80.7	Station Kotabumi China	2006-01-01T00:00:00
-203	KLSM	3.0863	97.3298	18.0	Type MR, Kluet Utara,Aceh Selatan,Aceh	2019-01-01T00:00:00
-204	KMBFM	-8.5654217	120.31311	1217.0	Station Type MR, Kuwus, Manggarai Barat, Nusa Tenggara Timur	2020-10-01T00:00:00
-205	KMMI	-7.0412	113.9157	49.14	Station Kalianget, Indonesia	2006-01-01T00:00:00
-206	KMNI	-8.5883	116.0995	0.0	Kota  Mataram  Nusa  Tenggara  Barat  Indonesia	2021-11-26T00:00:00
-207	KMPI	-3.6616	133.7044	90.04	Station Kaimana, Papua, Indonesia (BMKG)	2009-01-01T00:00:00
-208	KMSI	0.5745	123.98	218.0	Station Kotamubagu, Sulawesi	2008-01-01T00:00:00
-209	KOMFI	-8.536	119.547	16.0	Komodo, Manggarai Barat, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-210	KORPI	-1.158	129.845	11.0	Kofiau, Raja Ampat, Papua Barat	2022-09-22T07:45:29.525
-211	KPJI	-7.3333	108.931	111.0	Station Karang Pucung, Java	2008-01-01T00:00:00
-212	KPJM	-7.1883	111.9281	23.0	Type MR, Kapas,Bojonegoro,Jawa Timur	2019-01-01T00:00:00
-213	KRAI	-3.318326	128.39476	59.6	Station Kairatu, Seram Bagian Barat, Maluku	2009-10-20T00:00:00
-214	KRJI	-2.0912	101.4619	810.88	Station Kerinci, Sumatra	2007-01-01T00:00:00
-215	KRK	-8.1521	112.4506	330.26	Station Karangkates, Indonesia	2006-01-01T00:00:00
-216	KRSI	-1.82	119.42	60.3	Station Karosa China	2019-11-01T00:00:00
-217	KSI	-3.6517	102.5929	539.0	Station Kepahiang, Indonesia	2005-01-01T00:00:00
-218	KSJR	-6.83145	106.66215	0.0	REIS Kalapanungal	2018-01-02T00:00:00
-219	KTMI	-7.669066	131.579205	59.0	Station Type A, Kormomolin,Kepulauan Tanimbar,Maluku	2019-01-01T00:00:00
-220	KTTI	-10.01356	124.5339	87.0	Station Type A, Kolbano,Timor Tengah Selatan,Nusa Tenggara Timur	2019-01-01T00:00:00
-221	KUBSI	-4.78121	123.18684	59.0	Kulisusu, Buton Utara, Sulawesi Tenggara	2022-09-22T07:45:29.525
-222	KUKI	-0.0394	115.6305	0.0	Kutai  Barat,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
-223	KUSI	3.1964	97.3706	29.0	Station Type A, Kluet Utara,Aceh Selatan,Aceh	2019-01-01T00:00:00
-224	KWJI	-7.3837	109.9691	868.0	Station Type B Kertek,Wonosobo,Jawa Tengah	2019-01-01T00:00:00
-225	KYJR	-7.79915	110.38726	0.0	REIS Kota Yogyakarta	2018-07-02T00:00:00
-226	LASI	4.4572	97.9704	4.34	Station Langsa, Aceh, Sumatra, Indonesia (BMKG)	2009-10-20T00:00:00
-227	LBFI	-8.48	119.8921	75.0	Station Labuhan Bajo China	2006-12-01T00:00:00
-228	LBMI	-0.6379	127.5008	113.91	Station Labuha, Bacan, Indonesia (BMKG)	2007-01-01T00:00:00
-229	LBNFM	-8.6017	119.0124	75.0	Station Type MR, Lambu, Nusa Tenggara Barat	2020-01-01T00:00:00
-230	LBTSI	-0.475	100.625	417.0	Lintau Buo Utara, Tanah Datar, Sumatera Barat	2022-09-22T07:45:29.525
-231	LDSI	2.886	98.157	819.0	Sukandebi, Sumatra Utara	2019-09-16T00:00:00
-232	LEM	-6.8266	107.61756	1293.0	Station Lembang, Indonesia	2005-01-01T00:00:00
-233	LEM	-6.82325	107.6143	1200.0	Station Lembang, Indonesia	2010-09-29T16:55:00
-234	LEMFI	-8.707	120.172	187.0	Lembor, Manggarai Barat, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-235	LESM	-4.96147	103.71256	39.0	Type MR, Lemong,Pesisir Barat,Lampung	2019-01-01T00:00:00
-236	LHMI	5.2288	96.9472	3.0	GEOFON Station Lhokseumave, Sumatra, Indonesia	2008-02-29T00:00:00
-237	LHSI	-3.8267	103.5233	183.68	Station Lahat, Sumatra	2008-01-01T00:00:00
-238	LHSM	-4.1779734	103.5742079	1494.0	Type MR, Semendo,Lahat,Sumatera Selatan	2019-01-01T00:00:00
-239	LISM	4.4785	96.78746	1374.0	Type MR, Lingge Isaq,Aceh Tengah,Aceh	2019-01-01T00:00:00
-240	LJPI	-3.1271	139.945	405.0	Station Type A, Lereh,Jayapura,Papua	2019-01-01T00:00:00
-241	LKCI	-3.4921	120.8858	75.0	Station Type A, Lasusua, Lasusua, Sulawesi Tenggara	2019-01-01T00:00:00
-242	LKSM	0.1845	100.6007	186.0	Type MR, Suliki,Limapuluh Koto,Sumatera Barat	2019-01-01T00:00:00
-243	LKUCM	-3.2924	122.2332	107.0	Station Type MR, Langgikima, Sulawesi Tenggara	2020-11-01T00:00:00
-244	LLSI	-3.27843	102.9139	129.0	Station Type B Lubuk Linggau Barat,Kota Lubuk Linggau,Sumatera Selatan	2019-01-01T00:00:00
-245	LLSM	-5.60039	104.80943	37.0	Type MR, Limau,Tanggamus,Lampung	2019-01-01T00:00:00
-246	LMNI	-8.23386	123.7157	74.0	Station Lembata China	2019-11-01T00:00:00
-247	LMTI	-8.6011	120.4771	1145.0	Station Type A, Langke Rembong,Manggarai,Nusa Tenggara Timur	2019-01-01T00:00:00
-248	LOCM	-1.6502	120.1825	1370.0	Type MR, Lore Tengah,Poso,Sulawesi Tengah	2019-01-01T00:00:00
-249	LOMSI	-4.91095	122.74157	58.0	Lohia, Muna, Sulawesi Tenggara	2022-09-22T07:45:29.525
-250	LPCM	-3.5012	119.5378	29.0	Type MR, Lembang,Pinrang,Sulawesi Selatan	2019-01-01T00:00:00
-251	LPSM	-1.7082	100.7196	110.0	Type MR, Lengayang,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
-252	LRTI	-8.2752	123.0	53.0	Station LRTI	2013-01-01T00:00:00
-253	LSCM	-4.365	119.8987	109.0	Type MR, Lalabati Rilau,Soppeng,Sulawesi Selatan	2019-01-01T00:00:00
-254	LSNI	-8.96	117.18	0.0	Lunyuk,  Sumbawa,  Nusat  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-255	LSSN	-2.6144	121.10245	112.0	Noncollocated_DS(Seismotek) Luwu Timur	2020-12-03T00:00:00
-256	LTNI	-8.75	116.48	0.0	Lombok  Timur,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-257	LTNSI	1.336	97.32	52.0	Lahewa Timur, Nias Utara, Sumatera Utara	2022-09-22T07:45:29.525
-258	LTSM	1.52936	98.9305	5.0	Type MR, Lumut,Tapanuli Tengah,Sumatera Utara	2019-01-01T00:00:00
-259	LUCM	-1.4262	120.3225	1102.0	Type MR, Lore Utara,Poso,Sulawesi Tengah	2019-01-01T00:00:00
-260	LUJI	-7.826	113.0107	665.0	Station Type B Lumbang,Pasuruan,Jawa Timur	2019-01-01T00:00:00
-261	LUWI	-1.0418	122.7717	6.0	GEOFON Station Luwuk, Sulawesi, Indonesia	2008-03-10T00:00:00
-262	LWLI	-5.0175	104.0589	938.05	Station Liwa, Sumatra	2007-01-01T00:00:00
-263	MAKBI	-8.487	115.505	86.0	Manggis, Karangasem, Bali	2022-09-22T07:45:29.525
-264	MASFI	-8.537	122.032	13.0	Magepanda, Sikka, Nusa Tenggara Timur	2023-07-17T07:45:29.525
-265	MASI	-3.1415	102.2396	384.5	Station Muara Aman, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
-266	MASM	5.29847	95.59667	82.0	Type MR, Masjid Raya,Aceh Besar,Aceh	2019-01-01T00:00:00
-267	MASSI	4.733	125.479	105.0	Marore, Kepulauan Sangihe, Sulawesi Utara	2023-08-19T07:45:29.525
-268	MBBI	-1.5406	102.0984	113.0	Station Type B Muara Bungo,Bungo,Jambi	2019-01-01T00:00:00
-269	MBJI	-7.44892	109.63243	352.0	Station Majalengka Banjarnegara Jawa Indonesia	2018-10-22T00:00:00
-270	MBPI	-2.035	133.7322	57.0	Station Type A, Manimeri,Teluk Bintuni,Papua Barat	2019-01-01T00:00:00
-271	MBRPI	-1.771	130.407	2.0	Misool Barat, Raja Ampat, Papua Barat	2023-08-09T07:45:29.525
-272	MBSI	-3.7611	102.2714	28.05	Station University, Bengkulu, Indonesia (BMKG)	2008-01-01T00:00:00
-273	MBSM	-3.1451	101.8374	37.0	Type MR, Marga Sakti Seblat ,Bengkulu Utara,Bengkulu	2019-01-01T00:00:00
-274	MBSR	-4.44095	102.89383	15.0	REIS Manna	2018-01-02T00:00:00
-275	MDSI	-4.4861	104.1783	111.0	Station Muara Dua, Sumatra	2008-01-01T00:00:00
-276	MGAI	4.0079	126.67	91.0	Station MGAI	2013-01-01T00:00:00
-277	MIBPI	-5.879	140.709	51.0	Mindiptana, Boven Digoel, Papua	2022-09-22T07:45:29.525
-278	MIPI	-4.5301	136.8935	30.0	Station Type A, Mimika Baru,Mimika,Papua	2019-01-01T00:00:00
-279	MISSI	5.552612	126.58147	11.0	Miangas, Kepulauan Talaud, Sulawesi Utara	2023-08-22T07:45:29.525
-280	MJSI	-3.5008	118.9149	306.8	Station Majene, Sulawesi	2007-01-01T00:00:00
-281	MKBI	-2.4474	101.2396	48.21	Station Muko-Muko, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
-282	MKJM	-7.6629	110.4834	410.0	Type MR, Manisrenggo,Klaten,Jawa Tengah	2019-01-01T00:00:00
-283	MKS	-5.2178	119.4696	80.32	Station Gowa, Sulawesi, Indonesia (BMKG)	2015-01-01T00:00:00
-284	MKSM	-4.5288	103.36	300.0	Type MR, Muara Sahung,Kaur,Bengkulu	2019-01-01T00:00:00
-285	MLJI	-8.157473	112.446699	275.0	Malang Jawa Indonesia	2018-10-30T00:00:00
-286	MLJM	-7.2483	112.3379	55.0	Type MR, Mantup,Lamongan,Jawa Timur	2019-01-01T00:00:00
-287	MLMMI	-8.148	127.792	8.0	Moa Lakor, Maluku Barat Daya, Maluku	2023-08-21T07:45:29.525
-288	MLSI	4.2668	96.404	96.94	Station Meulaboh, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
-289	MMCI	-2.95597	119.3631	1167.0	Station Type A, Mamasa,Mamasa,Sulawesi Barat	2019-01-01T00:00:00
-290	MMPI	-8.5181	140.4141	98.57	Station Merauke, Indonesia	2006-01-01T00:00:00
-291	MMRI	-8.6357	122.2376	137.0	GEOFON Station Maumere, Flores, Indonesia	2006-11-09T00:00:00
-292	MMSI	-2.6892	118.909	221.3	Station Mamuju China	2006-12-01T00:00:00
-293	MNAI	-4.3605	102.9557	154.0	GEOFON Station Manna, Sumatra, Indonesia	2006-07-27T00:00:00
-294	MNI	1.44397	124.83998	191.0	Station Manado, Sulawesi	2005-01-01T00:00:00
-295	MNSI	0.7955	99.5796	294.4	Station Mandailing Natal, Sumatra	2008-01-01T00:00:00
-296	MPSI	0.3374	119.898	174.0	Station Mapaga, Sulawesi	2008-01-01T00:00:00
-297	MPSM	0.5891	100.1383	195.0	Type MR, Mapat Tunggul,Pasaman,Sumatera Barat	2019-01-01T00:00:00
-298	MRSI	0.4771	121.9406	99.0	Station Marisa, Sulawesi	2008-01-01T00:00:00
-299	MSAI	-3.346145	128.928482	8.5	Station Amahai, Masohi, Maluku	2007-01-01T00:00:00
-300	MSCM	-2.5358	120.2813	108.0	Type MR, Masamba,Luwu Utara,Sulawesi Selatan	2019-01-01T00:00:00
-301	MSHHI	0.629	128.425	29.0	Maba Selatan, Halmahera Timur, Maluku Utara	2022-09-22T07:45:29.525
-302	MSSI	-2.5547	120.3241	116.0	Station Masamba, Sulawesi	2007-01-01T00:00:00
-303	MTAI	2.19802	128.27585	24.0	Station Morotai, North Maluku, Indonesia	2018-09-14T00:00:00
-304	MTCM	-2.573883	121.054464	21.0	Type MR, Malili,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
-305	MTJPI	-2.627	140.864	6.0	Muara Tami, Jayapura, Papua	2022-09-22T07:45:29.525
-306	MTKI	-0.9418	114.8959	100.11	Station Muara Teweh, Kalimantan, Indonesia (BMKG)	2008-06-21T00:00:00
-307	MTMPI	-2.305	138.037	67.0	Mamberamo Tengah, Mamberamo Raya, Papua	2022-09-22T07:45:29.525
-308	MTMTI	-9.58	124.88	25.0	Malaka Tengah, Malaka, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-309	MTNI	-8.636	116.1707	108.3	Station Mataram, Plombok	2007-01-01T00:00:00
-310	MTSI	2.1524	98.2524	8.0	Station Type A, Manduamas,Tapanuli Tengah,Sumatera Utara	2019-01-01T00:00:00
-311	MTSM	-4.4793	103.5062	803.0	Type MR, Muara Dua,Oku Selatan,Sumatera Selatan	2019-01-01T00:00:00
-312	MUMUI	-1.785	125.481	11.0	Mangoli Utara, Kepulauan Sula, Maluku Utara	2023-08-19T07:45:29.525
-313	MUNJI	-8.43793	114.34801		Tide Gauge network	2016-07-01T00:00:00
-314	MUTSI	2.3	98.965	1571.0	Muara, Tapanuli Utara, Sumatera Utara	2022-09-22T07:45:29.525
-315	MWPI	-0.9258	134.0431	30.0	Station Manokwari China	2009-07-01T00:00:00
-316	NANFI	-8.761	121.302	644.0	Nangaroro, Nagekeo, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-317	NBBI	-8.4597	114.942	300.74	Station Negara, Indonesia	2006-01-01T00:00:00
-318	NBMI	-3.8509	126.6995	59.0	Station Type A, Namrole,Buru Selatan,Maluku	2019-01-01T00:00:00
-319	NBPI	-3.3656	135.4972	98.81	Station NBPI (ex-JAY1)	2012-10-26T00:00:00
-320	NGJI	-7.3676	111.4612	149.0	Station Ngawi, Java	2008-01-01T00:00:00
-321	NJBM	-8.30984	114.617125	199.0	Station Type MR, Negara, Bali	2020-01-01T00:00:00
-322	NKBI	-8.726115	115.5259633	452.0	Station Type B Nusa Penida,Klungkung,Bali	2019-01-01T00:00:00
-323	NKKI	-1.5605	110.5671	69.0	Station Type A, Nangan Tayap, Ketapang, Kalimantan Barat	2019-01-01T00:00:00
-324	NLAI	-3.239	127.0998	101.92	Station Namlea, Ambon	2008-01-01T00:00:00
-325	NSBMM	-3.0828917	128.2096033	86.0	Station Type MR, Seram Barat, Maluku	2020-10-01T00:00:00
-326	OBMI	-1.3413	127.6444	110.89	Station Pulau, BMG, Indonesia	2012-01-01T00:00:00
-327	OBMPI	-6.555	139.3	21.0	Obaa, Mappi, Papua	2023-08-25T15:38:29.525
-328	OMBFM	-8.6911917	119.8248167	102.0	Station Type MR, Komodo, Manggarai Barat, NTT	2020-10-01T00:00:00
-329	ONSM	2.1599	98.6301	1158.0	Type MR, Onan Ganjang,Humbang Hasundutan,Sumatera Utara	2019-01-01T00:00:00
-330	OSSN	-3.018655	120.17921	105.0	Noncollocated_DS(Seismotek)  Palopo	2020-11-26T00:00:00
-331	PAASI	5.671	95.129	9.0	Pulo Aceh, Aceh Besar, Aceh	2022-09-22T07:45:29.525
-332	PABI	0.1236	99.8719	155.0	Station Type A, Pasaman,Pasaman Barat,Sumatera Barat	2019-01-01T00:00:00
-333	PACJI	-8.26695	111.37356		Tide Gauge network	2016-07-01T00:00:00
-334	PAFM	-8.3832	124.128	77.0	Station Type MR, Pantar Tengah, Alor, NTT	2020-10-01T00:00:00
-335	PAGA	-0.25	100.382	0.0	STA GAW BUKIT TINGGI	2007-01-01T00:00:00
-336	PAKI	-1.84	116.18	0.0	Paser,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
-337	PANJI	-7.6865	108.67377		Tide Gauge network	2016-07-01T00:00:00
-338	PAPA	-0.466	100.379	726.0	STA GEOF PADANG PANJANG	2007-01-01T00:00:00
-339	PASC	-0.545	100.29	130.0	STA KLIM SICINCIN PADANG	2007-01-01T00:00:00
-340	PASJI	-6.212	105.9835	248.0	Padarincang, Serang, Banten	2022-09-22T07:45:29.525
-341	PASMI	-2.9646	100.2028	39.0	Pagai Selatan, Kepulauan Mentawai, Sumatera Barat	2023-08-06T07:45:29.525
-342	PATU	-0.997	100.371	0.0	STA MAR TELUK BAYUR PDG	2007-01-01T00:00:00
-343	PBCI	0.38301	124.0396	33.0	Station Type A, Poigar,Bolaang Mongondow,Sulawesi Utara	2019-01-01T00:00:00
-344	PBJI	-7.0874	107.4757	1090.0	Station Type B, Pasir Jambu	2019-01-01T00:00:00
-345	PBKI	-2.7047	111.6697	74.44	Station Pangkalan Bun, Kalimantan	2007-01-01T00:00:00
-346	PBLI	-8.8218	116.2778	106.0	Station Type A, Pujut,Lombok Tengah ,Nusa Tenggara Barat	2019-01-01T00:00:00
-347	PBMMI	-7.86	129.597	7.0	Pulau-Pulau Babar, Maluku Barat Daya, Maluku	2023-08-26T21:45:29.525
-348	PBMSI	0.995298	124.282277	88.0	Station Type A, Poigar, Bolaang Mongondow, Sulawesi Utara	2022-09-22T07:45:29.525
-349	PBNI	-8.79	118.57	0.0	Parado,  Bima,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-350	PBSI	-0.0547	98.28	47.0	Station Pulau Batu, Sumatra	2008-01-01T00:00:00
-351	PCI	-0.9054	119.8366	150.0	Station Palu, Indonesia	2005-01-01T00:00:00
-352	PCJI	-8.1947	111.1771	702.27	Station Pacitan, Java	2008-01-01T00:00:00
-353	PCJM	-6.912934	108.719107	646.0	Type MR, Pabuaran,Cirebon,Jawa Barat	2019-01-01T00:00:00
-354	PDGB	100.298818	0.545579	129.0	PDGB	2020-01-01T00:00:00
-355	PDLI	-8.1037	117.8729	16.0	Station Type A,Tambora,Dompu,Nusa Tenggara Barat	2019-01-01T00:00:00
-356	PDSI	-0.9118	100.4617	275.6	Station Padang, Sumatra	2007-01-01T00:00:00
-357	PGJM	-8.0102	110.414	361.0	Station Type MR, Panggang, Gunung Kidul, DIY	2020-10-01T00:00:00
-358	PICM	-0.710997	120.088757	40.0	Type MR, Parigi Utara,Parigi Moutong,Sulawesi Tengah	2019-01-01T00:00:00
-359	PKCI	-4.3507	122.3436	201.0	Station Type A, Palangga, Palangga,Sulawesi Tenggara	2019-01-01T00:00:00
-360	PKJI	-7.1678	109.5798	847.0	Station Type B Paninggaran,Pekalongan,Jawa Tengah	2019-01-01T00:00:00
-361	PKJM	-6.79577	108.43985	290.0	Type MR, Pasawahan,Kuningan,Jawa Barat	2019-01-01T00:00:00
-362	PKKI	-2.2411	113.9722	65.0	Station Palangkaraya, Kalimantan, BMG, Indonesia	2007-01-01T00:00:00
-363	PKSI	-4.0428	103.2639	741.0	Station Type B Pagar Alam Utara,Kota Pagar Alam,Sumatera Selatan	2019-01-01T00:00:00
-364	PLAI	-8.8274543	117.7764528	62.0	Plampang, Indonesia	2011-03-04T00:00:00
-365	PLJI	-7.8616	112.1548	232.9	Station Type B Plosoklaten,Kediri,Jawa Timur	2019-01-01T00:00:00
-366	PLKI	-2.2262	113.9453	69.73	Station Palangkaraya, Kalimantan	2007-01-01T00:00:00
-367	PLSI	0.23729	100.55398	133.0	Station Type B Pangkalan Koto Baru,Lima Puluh Koto,Sumatera Barat	2019-01-01T00:00:00
-368	PLSM	1.54	99.6462	88.0	Type MR, Sosa,Padanglawas,Sumatera Utara	2019-01-01T00:00:00
-369	PMBI	-2.9024	104.6993	25.0	GEOFON Station Palembang, Sumatra, Indonesia	2005-12-06T00:00:00
-370	PMCI	-1.17288	119.3477	83.0	Station Type A, Pasangkayu, Mamuju Utara, Sulawesi Barat	2019-01-01T00:00:00
-371	PMMI	0.3738	127.4158	16.0	Station Type A, Pulau Makian,Halmahera Selatan,Maluku Utara	2019-01-01T00:00:00
-372	PMSI	-3.5008	118.9149	306.8	Station Majene, Sulawesi, Indonesia (BMKG)	2009-01-01T00:00:00
-373	POBSI	-4.73985	122.00214	126.0	Poleang, Bombana, Sulawesi Tenggara	2022-09-22T07:45:29.525
-374	POCI	-1.420317	120.656954	10.0	Station Type A, Poso Pesisir,Poso,Sulawesi Tengah	2019-01-01T00:00:00
-375	POKJI	-8.053	112.812	906.0	Poncokusumo, Malang, Jawa Timur	2022-09-22T07:45:29.525
-376	POPJI	-8.26416	111.80227		Tide Gauge network	2016-07-01T00:00:00
-377	PPBI	-2.1616	106.1364	63.55	Station Pangkal Pinang, Bangka	2007-01-01T00:00:00
-378	PPCM	-3.727	119.7269	48.0	Type MR, Patampanua,Pinrang,Sulawesi Selatan	2019-01-01T00:00:00
-379	PPI	-0.455476	100.397217	783.6	Station Padangpanjang, Indonesia	2005-01-01T00:00:00
-380	PPJI	-7.70444	112.6352777	885.0	Tretes, Jawa, Indonesia	2018-10-22T00:00:00
-381	PPLI	-5.74103	105.14486	63.0	Station Type B Punduh Pedada,Pesawaran,Lampung	2019-01-01T00:00:00
-382	PPSI	-2.766	100.01	6.0	Station Pulau Pagai, Sumatra	2008-01-01T00:00:00
-383	PPSM	-5.3182	104.0156	3.0	Type MR, Pesisir Selatan,Pesisir Barat,Lampung	2019-01-01T00:00:00
-384	PPSN	-1.35	100.579	6.0	BPBD KABUPATEN PESISIR SELATAN	2017-01-01T00:00:00
-385	PRJI	-8.07216	110.79178	337.0	Station Type B Pracimantoro,Wonogiri,Jawa Tengah	2019-01-01T00:00:00
-386	PRLJI	-8.232273	113.114018	159.0	Station Type A, Pasiran, Lumajang, Jawa Timur	2022-09-22T07:45:29.525
-387	PRSI	0.37	102.17	0.0	Pelalawan,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
-388	PRSN	-0.7856	100.3048	16.0	Stasiun Meteorologi Kelas II Minangkabau	2015-01-01T00:00:00
-389	PSI	2.695	98.924	1051.0	Station Rantau Prapat, Sumatra, Indonesia (CTBTO)	2006-01-01T00:00:00
-390	PSJCM	-7.06	120.620245	79.0	Station Type MR, Pasimassungu, Kep. Selayar, Sulawesi Selatan	2020-10-01T00:00:00
-391	PSJM	-6.96858	106.54906	205.0	Type MR, Pelabuhan Ratu,Sukabumi,Jawa Barat	2019-01-01T00:00:00
-392	PSLI	-5.93732	105.51004	39.0	Station Type B Rajabasa P. Sibesi,Lampung Selatan,Lampung	2019-01-01T00:00:00
-393	PSSI	2.73532	125.4045	1253.0	Siau, Sulawesi Utara	2018-11-22T00:00:00
-394	PSSM	-5.86438	104.69528	6.0	Type MR, Pematang Sawah,Tanggamus,Lampung	2019-01-01T00:00:00
-395	PSSN	1.5534	98.8969	6.0	STAMET PINANG SORI SIBOLGA	2017-01-01T00:00:00
-396	PTJI	-6.2655167	106.748825	76.0	Station Type B Pondok Aren,Tangerang Selatan,Banten	2019-01-01T00:00:00
-397	PTKI	-0.14195	109.40296	36.0	Station Pontianak, Kalimantan, Indonesia (JISNET)	2006-03-03T00:00:00
-398	PTSM	2.011856	99.166011	1196.0	Type MR, Pangaribuan,Tapanuli Utara,Sumatera Utara	2019-01-01T00:00:00
-399	PUPSI	-1.733	120.676	670.0	Pamona Utara, Poso, Sulawesi Tengah	2023-07-27T07:45:29.525
-400	PWCM	-3.6739	120.4005	102.0	Station Type MR, Pitumpanua, Sulawesi Selatan	2020-01-01T00:00:00
-401	PWJI	-8.021887	111.804112	205.0	Station Pagerwojo, Java	2008-01-01T00:00:00
-402	RAPI	-0.4102	130.8211	108.6	Station RAPI	2006-01-01T00:00:00
-403	RASM	-2.1655	101.0708	100.0	Type MR, Ranah Ampek Hulu Tapan,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
-404	RBSI	-5.84445	105.742	224.44	Station Rajabasa, Sumatra	2008-01-01T00:00:00
-405	RDCM	-1.295483	119.552463	44.0	Type MR, Rio Pakava,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-406	RGRI	-0.3491	102.3338	40.93	Station Rengat, Sumatra	2007-01-01T00:00:00
-407	RHRSI	1.44	100.51	0.0	Rokan  Hilir,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
-408	RITA	-7.163845	110.183745	749.0	Station Type B, Gemawang Temanggung	2021-12-31T00:00:00
-409	RKCM	-2.9402467	121.5806317	495.0	Station Type MR, Rauta, Sulawesi Tenggara	2020-01-01T00:00:00
-410	RKPI	-1.5107	134.1773	106.2	Station Ransiki, Papua; Indonesia (BMKG)	2009-01-01T00:00:00
-411	RLSI	2.0687	99.8455	29.0	Station Type A, Rantau Selatan,Labuhan Batu,Sumatera Utara	2019-01-01T00:00:00
-412	RMSM	-2.62326	102.7617	56.0	Type MR, Rawas Hulu,Musi Rawas,Sumatera Selatan	2019-01-01T00:00:00
-413	RNFM	-8.429345	121.0261133	84.0	Station Type MR, Riung, Ngada, NTT	2020-10-01T00:00:00
-414	RONI	-10.76	123.07	200.3	Station Rote China	2019-11-01T00:00:00
-415	ROTTI	-10.806	123.013	139.0	Rote Barat Daya, Rote Ndao, Nusa Tenggara Timur	2022-09-22T07:45:29.525
-416	RPSI	2.0723	99.8325	78.0	Station Rantau Parapat, Sumatra	2008-01-01T00:00:00
-417	RRHRI	0.571374	100.427397	92.0	Station Type A, Rokan IV Kota, Rokan Hulu, Riau	2022-09-22T07:45:29.525
-418	RRSI	0.84096	100.34611	78.0	Station Type A, Rambah,Rokan Hulu,Riau	2019-01-01T00:00:00
-419	RSNI	-8.91	117.56	0.0	Ropang,  Sumbawa,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-420	RSSM	2.597922	98.782984	1542.0	Type MR, Ronggurnihuta,Samosir,Sumatera Utara	2019-01-01T00:00:00
-421	RTBI	-8.4597	114.942	300.74	Station Rangdo, Negare, Bali, Indonesia (BMKG)	2009-01-01T00:00:00
-422	SAASI	5.562	95.525	42.0	Seulimum, Aceh Besar, Aceh	2022-09-22T07:45:29.525
-423	SADLY	-6.5737854	106.074132	292.0	Station Gunung Kencana, Indonesia	2021-12-23T00:00:00
-424	SAKJI	-7.686	110.155	706.0	Samigaluh, Kulonprogo, DIY	2023-06-10T04:50:00
-425	SAMKI	-0.189252	110.36367	30.0	Sanggau, Meliau, Kalimantan Barat	2023-12-02T08:00:00
-426	SANI	-2.049695	125.988104	24.0	GEOFON Station Sanana, Indonesia	2009-11-26T00:00:00
-427	SAPSI	-1.0	120.464	25.0	Sausu, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
-428	SASI	0.12411	99.87537	168.0	Simpang Empat, Sumatra, Indonesia	2018-10-22T00:00:00
-429	SASM	4.8795	95.4825	104.0	Type MR, Sampoiniet,Aceh Jaya,Aceh	2019-01-01T00:00:00
-430	SASN	2.6583	97.9978	50.0	Noncollocated_DS(Seismotek) Subulussalam	2020-11-17T00:00:00
-431	SATPI	-1.972	138.87	14.0	Sarmi Timur, Sarmi, Papua	2023-08-14T07:45:29.525
-432	SAUI	-7.9826	131.2988	110.0	GEOFON Station Saumlaki, Indonesia	2009-06-29T00:00:00
-433	SBBM	-8.2031	114.9179	111.0	Station Type MR, Seririt, Bali	2020-10-01T00:00:00
-434	SBJI	-6.1117	106.1318	64.48	Station Serang, Indonesia	2006-01-01T00:00:00
-435	SBJM	-7.967995	110.266119	17.0	Type MR, Sanden,Bantul,D.I Yogyakarta	2019-01-01T00:00:00
-436	SBNI	-10.492279	121.846004	14.5	Sabu, Nusa Tenggara Timur	2017-12-01T00:00:00
-437	SBSI	1.3988	99.431	291.51	Station Sibolga, Sumatra	2007-01-01T00:00:00
-438	SBSM	0.1983	99.3775	1.0	Type MR, Sungai Beremas,Pasaman Barat,Sumatera Barat	2019-01-01T00:00:00
-439	SBSSI	-1.206	119.889	221.0	Sigi Biromaru, Sigi, Sulawesi Tengah	2022-09-22T07:45:29.525
-440	SCJI	-7.681	109.16892	45.0	Station Gunung Srandil, Java, BMG, Indonesia	2007-01-01T00:00:00
-441	SCJM	-6.8437	107.2221	327.0	Type MR, Sukaluyu,Cianjur,Jawa Barat	2019-01-01T00:00:00
-442	SDCI	-0.494155	119.768722	27.0	Station Type A, Sindue,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
-443	SDSI	-0.9325	101.428	213.32	Station Sungai Dareh, Sumatra	2008-01-01T00:00:00
-444	SDSM	2.75379	98.28677	1018.0	Type MR, Sidikalang,Dairi,Sumatera Utara	2019-01-01T00:00:00
-445	SEJI	-7.0051	111.7288	120.0	Station Type B Senori,Tuban,Jawa Timur	2019-01-01T00:00:00
-446	SEJM	-6.8726	108.5852	342.0	Type MR, Sedong,Cirebon,Jawa Barat	2019-01-01T00:00:00
-447	SEMI	-2.917032	129.820841	60.0	Station Type A, Seram Utara Timur Seti,Maluku Tengah,Maluku	2019-01-01T00:00:00
-448	SGKI	0.530205	117.604347	182.0	Station Sangata, Kalimantan, Indonesia (BMKG)	2009-01-01T00:00:00
-449	SGSI	3.686	125.5286	100.47	Station Sangihe, BMG	2007-01-01T00:00:00
-450	SICJI	-7.472	108.808	68.0	Sidareja, Cilacap, Jawa Tengah	2023-08-14T07:45:29.525
-451	SIJI	-0.86912	131.26605	201.0	Station Sorong, Indonesia (CTBTO AS042)	2010-01-01T00:00:00
-452	SIJM	-7.41011	112.760504	24.0	Type MR, Sidoarjo,Sidoarjo,Jawa Timur	2019-01-01T00:00:00
-453	SIRSI	0.86	101.66	0.0	Siak,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
-454	SISI	-1.3265	99.0895	47.2	Station Saibi, Sumatra	2008-01-01T00:00:00
-455	SISM	4.6082	96.7288	1034.0	Type MR, Silih Nara,Aceh Tengah,Aceh	2019-01-01T00:00:00
-456	SISMI	-1.7806	99.14018	39.0	Siberut Selatan, Kepulauan Mentawai, Sumatera Barat	2022-09-22T07:45:29.525
-457	SIUMI	-1.126	98.98	9.0	Siberut Utara, Kepulauan Mentawai, Sumatera Barat	2023-07-27T07:45:29.525
-458	SJPM	-2.5698	140.502	192.0	Station, Type MR, Sentani, Jayapura	2020-10-01T00:00:00
-459	SKJI	-7.0053	106.5563	100.35	Station Sukabumi, Java	2007-01-01T00:00:00
-460	SKKN	0.94457	109.01528	42.0	BPBD KOTA SINGKAWANG	2010-01-01T00:00:00
-461	SKPM	-3.4485	140.7256	343.0	Station Type MR, Senggi, Keerom, Papua	2020-10-01T00:00:00
-462	SKSI	5.894472	95.31271	12.0	Station Type A, Sukakarya,Kota Sabang,Aceh	2019-01-01T00:00:00
-463	SKSM	-1.946	101.3497	956.0	Type MR, Siulak Mukai,Kerinci,Jambi	2019-01-01T00:00:00
-464	SLBFM	-8.796215	115.934067	77.0	Station Type MR, Sekotong Tengah, Nusa Tenggara Barat	2020-11-01T00:00:00
-465	SLSI	-2.3924	102.5927	76.83	Station Sarolangun, Jambi Indonesia (BMKG)	2009-01-01T00:00:00
-466	SLSM	-0.83132	100.65342	389.0	Type MR, Sungai Lasi,Solok,Sumatera Barat	2019-01-01T00:00:00
-467	SMKI	-0.4461	117.2085	97.28	Station Samarinda, Kalimantan	2007-01-01T00:00:00
-468	SMPI	-1.981115	138.710799	111.0	Station Sarmi, Irian Jaya	2008-01-01T00:00:00
-469	SMRI	-7.04915	110.44067	203.0	GEOFON Station Semarang, Java, Indonesia	2006-11-01T00:00:00
-470	SMSI	0.9885	122.3654	85.39	Station Sumalata, BMG, Indonesia	2012-01-01T00:00:00
-471	SMSM	-0.005923	100.17103	361.0	Type MR, Simpati,Pasaman,Sumatera Barat	2019-01-01T00:00:00
-472	SNBI	0.963245	97.429538	4.0	Station Type A, Sirombu,Nias Barat,Sumatera Utara	2019-01-01T00:00:00
-473	SNJI	-7.7808	111.7591	1341.0	Station Sawahan, Indonesia (JISNET)	2006-01-01T00:00:00
-474	SNSI	2.4089	96.3267	14.48	Station Sinabang, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
-475	SOEI	-9.7553	124.2672	0.0	GEOFON Station Soe, Indonesia	2008-12-09T00:00:00
-476	SOMPI	-8.431	141.007	38.0	Sota, Merauke, Papua	2022-09-22T07:45:29.525
-477	SPSI	-3.9646	119.7691	142.0	Station Sidrap, Sulawesi	2008-01-01T00:00:00
-478	SPSJM	-6.6669333	107.6136017	659.0	Station Type MR, Serang Panjang, Jawa Barat	2020-11-01T00:00:00
-479	SPSM	2.51596	98.37383	999.0	Type MR, Sitellu Tali Urang Julu,Pakpak Bharat,Sumatera Utara	2019-01-01T00:00:00
-480	SRBI	-8.0848	115.2126	111.5	Station Singaraja, Bali	2008-01-01T00:00:00
-481	SRMI	-2.941451	129.18185	18.0	Station Type A, Seram Utara,Maluku Tengah,Maluku	2019-01-01T00:00:00
-482	SRPI	-1.876922	136.240169	101.0	Station Serui, Papua, Indonesia (BMKG)	2009-01-01T00:00:00
-483	SRSI	-2.531554	120.877791	36.0	Sorowako, Sulawesi Selatan	2017-12-01T00:00:00
-484	SSASI	2.83	95.925	17.0	Simeulue Barat, Simeulue, Aceh	2022-09-22T07:45:29.525
-485	SSJM	-6.8872	106.9626	841.0	Type MR, Sukaraja,Sukabumi,Jawa Barat	2019-01-01T00:00:00
-486	SSKI	0.817173	108.970255	20.0	Singkawang, Kalimanta	2017-12-01T00:00:00
-487	SSMI	-3.736706	130.828774	65.0	Station Type A, Siritaun Wida Timur,Seram Bagian Timur,Maluku	2019-01-01T00:00:00
-488	SSSI	2.67492	97.97077	56.0	Subulussalam, Sumatra, Indonesia	2018-10-22T00:00:00
-489	SSSM	-1.56407	101.23747	563.0	Type MR, Sangir,Solok Selatan,Sumatera Barat	2019-01-01T00:00:00
-490	SSSN	-0.6636	100.9408	162.0	Noncollocated_DS(Seismotek) Sijunjung	2020-11-12T00:00:00
-491	STKI	0.0656	111.4772	87.78	Station Sintang, Kalimantan	2007-01-01T00:00:00
-492	STPI	-0.46835	132.1256	24.0	Station Type A, Sausapor,Tambrauw,Papua Barat	2019-01-01T00:00:00
-493	STSI	-2.38874	101.04783	16.0	Station Type B Silaut,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
-494	SUPJI	-6.796	105.515	51.0	Sumur, Pandeglang, Banten	2022-09-22T07:45:29.525
-495	SUSM	-5.0212	104.2945	1055.0	Type MR, Sekincau,Lampung Barat,Lampung	2019-01-01T00:00:00
-496	SUSPI	-0.732	135.734	11.0	Supiori Timur, Supiori, Papua	2023-08-07T07:45:29.525
-497	SWCM	-4.2145	120.0109	23.0	Type MR, Sabbang Paru,Wajo,Sulawesi Selatan	2019-01-01T00:00:00
-498	SWI	-0.8628	131.2592	128.88	Station Sorong, Indonesia	2006-01-01T00:00:00
-499	SWJI	-7.7349	111.7669	723.33	Station Sawahan, Java	2007-01-01T00:00:00
-500	SWPM	-0.8035	133.594	172.0	Station Type MR, Sidey, Manokwari, Papua	2020-10-01T00:00:00
-501	SYJI	-7.7483	110.4914	0.0	Sleman,  Yogyakarta,  Jawa,  Indonesia	2021-11-26T00:00:00
-502	TAGJI	-8.077	110.585	243.0	Tanjungsari, Gunung Kidul, DIY	2023-06-11T05:00:00
-503	TAJN	-8.0779	111.9071	120.0	BPBD TULUNG AGUNG	2016-01-01T00:00:00
-504	TAMI	-3.675906	128.110803	101.0	Station Type A, Teluk Ambon,Kota Ambon,Maluku	2019-01-01T00:00:00
-505	TAPSI	-3.332	119.249	56.0	Tapango, Polewali Mandar, Sulawesi Barat	2022-09-22T07:45:29.525
-506	TARAI	3.32712	117.57037	95.0	Station Tarakan, Kalimantan, Indonesia (JISNET)	2000-01-01T00:00:00
-507	TASI	-0.3241	100.0791	25.0	Station Type A, Tanjung Raya,Agam,Sumatera Barat	2019-01-01T00:00:00
-508	TASSI	2.347	125.386	46.0	Tagulandang, Siau Tagulandang Biaro, Sulawesi Utara	2022-09-22T07:45:29.525
-509	TBCM	-4.9117704	120.28299	64.0	Type MR, Tonra,Bone,Sulawesi Selatan	2019-01-01T00:00:00
-510	TBJI	-6.8179	111.8481	54.45	Station Tambak Boyo, Java	2008-01-01T00:00:00
-511	TBKI	2.136	117.4241	22.0	Station Type A, Teluk Bayur,Berau,Kalimantan Timur	2019-01-01T00:00:00
-512	TBMCM	0.7139	124.59	254.0	Station Type MR, Tutuyan, Bolaang Timur, Mongondow, Manado	2020-10-01T00:00:00
-513	TBMUI	-1.9	124.344	8.0	Taliabu Barat, Pulau Taliabu, Maluku Utara	2023-08-07T07:45:29.525
-514	TDNI	0.574382	97.819617	59.0	Teluk Dalam, Pulau Nias	2017-12-01T00:00:00
-515	TEBBI	-8.151183	115.373344	301.5	Tejakula, Buleleng, Bali	2023-12-04T00:00:00
-516	TGCM	0.5201	123.0778	163.0	Type MR, Telaga,Gorontalo,Gorontalo	2019-01-01T00:00:00
-517	TGJI	-6.8679	109.121	43.84	Station Tegal, Java	2007-01-01T00:00:00
-518	TIKSI	-3.977	121.866	137.0	Tinondo, Kolaka Timur, Sulawesi Tenggara	2022-09-22T07:45:29.525
-519	TIPSI	0.489	120.419	41.0	Tinombo \/ Palasa, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
-520	TKSM	3.1374	98.3244	720.0	Type MR, Tiganderket,Karo,Sumatera Utara	2019-01-01T00:00:00
-521	TLCM	-2.50925	120.79436	86.0	Type MR, Tomoni,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
-522	TLE	-5.6373	132.7373	113.0	Station Tual, Indonesia	2005-01-01T00:00:00
-523	TLE2	-5.69943	132.73952	34.0	Station Tual, Kai, JISNET, Indonesia	2010-01-01T00:00:00
-524	TMSI	1.294812	124.925571	771.0	Station TMSI	2013-01-01T00:00:00
-525	TMSM	-2.69954	101.44633	118.0	Type MR, Teramang Jaya,Mukomuko,Bengkulu	2019-01-01T00:00:00
-526	TMTMM	-3.2979	129.53	90.0	Station Type MR, Tehoru, Maluku Tengah	2020-10-01T00:00:00
-527	TNG	-6.1719	106.6469	51.25	Station Tangerang, Indonesia	2006-01-01T00:00:00
-528	TNGI	-6.172	106.647	40.0	Station Tangerang China	2006-01-01T00:00:00
-529	TNSR	1.46933	97.44152	0.0	REIS Tuhemberua	2018-07-02T00:00:00
-530	TNTI	0.7718	127.3667	43.0	GEOFON Station Ternate, Indonesia	2007-01-05T00:00:00
-531	TNTN	-9.4572	124.4741	438.0	Noncollocated_DS(Seismotek) Timor Tengah Utara	2020-10-29T00:00:00
-532	TOBSI	-1.446	122.25	43.0	Toili, Banggai, Sulawesi Tengah	2022-09-22T07:45:29.525
-533	TOCM	-2.647398	121.408032	342.0	Type MR, Towuti,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
-534	TOJI	-6.7621	108.1344	73.0	Station Type B Tomo,Sumedang,Jawa Barat	2019-01-01T00:00:00
-535	TOLI2	1.11119	120.78174	51.0	GEOFON Station Tolitoli, Sulawesi, Indonesia	2011-07-14T00:00:00
-536	TOTSI	-1.15292	121.28416	24.0	Tojo, Tojo Una-Una, Sulawesi Tengah	2022-09-22T07:45:29.525
-537	TPCI	0.467467	121.099286	13.0	Station Type A, Taopa,Parigi Moutong,Sulawesi Tengah	2019-01-01T00:00:00
-538	TPI	-2.75633	107.65345	25.0	Station Tanjung Pandang, Belitung, Indonesia	2006-12-22T00:00:00
-539	TPRI	0.9193	104.5208	41.46	Station Tanjung Pinang, Sumatra	2007-01-01T00:00:00
-540	TPSI	4.923159	96.017023	54.0	Station Type A, Tangse,Pidie,Aceh	2019-01-01T00:00:00
-541	TPTI	3.2618	97.1774	2.8	Station Tapaktuan China	2006-01-01T00:00:00
-542	TRIYO	-2.0601	99.583	88.0	Station Type MR, Sipora Selatan, Kep. Mentawai	2020-10-01T00:00:00
-543	TRPI	-6.0989	140.3	99.0	Tanah Merah, Papua	2019-10-24T00:00:00
-544	TRSI	2.0256	98.9594	978.5	Station Tarutung, Sumatra	2007-01-01T00:00:00
-545	TSI	3.5012	98.5645	89.27	Station Tuntungan, Indonesia	2006-01-01T00:00:00
-546	TSJM	-6.7319	107.8109	420.0	Type MR, Tanjungsiang,Subang,Jawa Barat	2019-01-01T00:00:00
-547	TSNI	-8.71	118.28	0.0	Tarano,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-548	TSPI	-1.4733	132.0898	62.0	Station Type A, Teminabuan,Sorong Selatan,Papua Barat	2019-01-01T00:00:00
-549	TTPSI	-4.818388	119.761719	365.0	Station Type A, Tondong Talasa, Pangkep, Sulawesi Selatan	2022-09-22T07:45:29.525
-550	TTSI	-3.0451	119.819	950.4	Station Tana Toraja, Sulawesi	2008-01-01T00:00:00
-551	TTSM	1.0856	99.4108	173.0	Type MR, Tano Tombangan Angkola,Tapanuli Selatan,Sumatera Utara	2019-01-01T00:00:00
-552	TTSMI	-2.864	128.727	11.0	Taniwel Timur, Seram Bagian Barat, Maluku	2023-08-05T07:45:29.525
-553	TUJI	-8.4018	113.7322	79.0	Station Type B Tumpakrejo,Jember,Jawa Timur	2019-01-01T00:00:00
-554	TWSI	-8.7381	116.8821	86.6	Station Taliwang, Sumbawa, Indonesia (BMKG)	2009-01-01T00:00:00
-555	UASN	5.07691	97.30382	40.0	Noncollocated_DS(Seismotek) Aceh Utara	2020-11-17T00:00:00
-556	UBSI	-3.7611	102.2714	28.05	Station Bengkulu, Sumatra, Indonesia (BMKG)	2006-01-01T00:00:00
-557	UGM	-7.9125	110.5231	350.0	GEOFON Station Wanagama, Indonesia	2006-06-29T00:00:00
-558	UIDB	-6.349021	106.826926	81.2	UIDB	2019-01-01T00:00:00
-559	UIDS	-6.349112	106.826683	54.3	UIDS	2019-01-01T00:00:00
-560	UKCM	-3.857	122.0431	122.0	Station Type MR, Unaaha, Sulawesi Tenggara	2020-11-01T00:00:00
-561	ULMSI	-3.052255	118.874557	476.7	Ulumanda, Majene, Sulawesi Barat	2023-12-04T00:00:00
-562	ULSM	-3.7588	102.7941	284.0	Type MR, Ulu Musi,Empat Lawang,Sumatera Selatan	2019-01-01T00:00:00
-563	UMKSI	-3.59	102.548	709.0	Ujan Mas, Kepahiang, Bengkulu	2022-09-22T07:45:29.525
-564	UMSSI	-9.897	120.661	50.0	Umalulu, Sumba Timur, Nusa Tenggara Timur	2023-07-31T07:45:29.525
-565	USFM	-8.41198	117.14111	85.0	Station Type MR, Utan, Nusa Tenggara Barat	2020-11-01T00:00:00
-566	USTI	-9.6543	119.7878	449.0	Station Type A, Umbu Ratu Nggay,Sumba Tengah,Nusa Tenggara Timur	2019-01-01T00:00:00
-567	UTSI	-5.31257	104.55095	882.0	Station Type B Ulu Belu,Tanggamus,Lampung	2019-01-01T00:00:00
-568	UTSM	-4.08339	102.72849	113.0	Type MR, Ulu Talo,Seluma,Bengkulu	2019-01-01T00:00:00
-569	UTUSI	-0.427364	121.860561	76.0	Station Type A, Una-Una, Tojo Una-Una, Sulawesi Tengah	2022-09-22T07:45:29.525
-570	UWJI	-6.4191	110.9474	61.52	Station Ujung Watu, Java	2009-01-01T00:00:00
-571	UWNPI	-3.479	135.587	117.0	Uwapa, Nabire, Papua	2023-08-04T07:45:29.525
-572	WAMI	-4.09593	138.95004	1673.0	Station Wamena, Irian Jaya	2008-09-05T00:00:00
-573	WANPI	-3.421	135.376	12.0	Wanggar, Nabire, Papua	2022-09-22T07:45:29.525
-574	WBMI	0.3393	127.8708	25.0	Station Type A, Weda Barat,Halmahera Tengah,Maluku Utara	2019-01-01T00:00:00
-575	WBNI	-8.3026	118.8872	0.0	Wera,  Bima,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
-576	WBSI	-9.6411	119.3911	456.67	Station Waikabubak, Sumba, Indonesia (BMKG)	2009-01-01T00:00:00
-577	WEFM	-8.6069517	121.7178533	114.0	Station Type MR, Wewaria, Ende, NTT	2020-10-01T00:00:00
-578	WFTFM	-8.5247	122.71	354.0	Staation Type MR, Wulanggitang, Flores Timur, NTT	2020-10-01T00:00:00
-579	WGJM	-7.3833	112.5098	35.0	Type MR, Wringianom,Gresik,Jawa Timur	2019-01-01T00:00:00
-580	WHMI	1.0825	128.132	41.0	Station Type A, Wasile,Halmahera Timur,Maluku Utara	2019-01-01T00:00:00
-581	WKCM	-3.8259	121.2993	116.0	Station Type MR, Wolo, Sulawesi Tenggara	2020-11-01T00:00:00
-582	WLFM	-8.5311	123.4499	80.0	Station Type MR, Wulandoni, Lembata, NTT	2020-10-01T00:00:00
-583	WLJI	-6.8310983	105.8909467	46.0	Station Type B Wonosalam,Lebak,Banten	2019-01-01T00:00:00
-584	WLPU	-6.3823	107.3603	33.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
-585	WLTFM	-8.51818	116.5407	533.0	Station Type MR, Wanasaba, Nusa Tenggara Barat	2020-11-01T00:00:00
-586	WMCM	-2.2162	121.622	7.0	Type MR, Wita Ponda,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
-587	WOJI	-7.8372	110.9236	183.62	Station Wonogiri, Java, Indonesia (BMKG)	2009-01-01T00:00:00
-588	WRJI	-7.81129	113.74565	491.0	Station Type B Curahdami,Bondowoso,Jawa Timur	2019-01-01T00:00:00
-589	WSHHI	0.764	127.813	24.0	Wasile Selatan, Halmahera Timur, Maluku Utara	2022-09-22T07:45:29.525
-590	WSI	-9.6689	120.297666	48.0	Station Waingapu, JISNET Indonesia	2005-01-01T00:00:00
-591	WSJM	-6.97472	106.7247	310.0	Type MR, Warungkiara,Sukabumi,Jawa Barat	2019-01-01T00:00:00
-592	WSTMM	-3.45296	129.995	86.0	Station Type MR, Werinama, Maluku	2020-11-01T00:00:00
-593	WTKSI	-4.03	123.22	21.0	Wawonii Timur Laut, Konawe Kepulauan, Sulawesi Tenggara	2022-09-22T07:45:29.525
-594	WUPCM	-3.0063	120.1927	94.0	Station Type MR, Wara Utara, Sulawesi Selatan	2020-11-01T00:00:00
-595	WWCI	-5.2724	123.5251	26.0	Station Type A, Wangi-wangi,Wakatobi,Sulawesi Tenggara	2019-01-01T00:00:00
-596	WWPI	-2.313	136.3773	16.0	Station Type A, Waropen Bawah,Waropen,Papua	2019-01-01T00:00:00
-597	YBYPI	-1.831	136.063	32.0	Yapen Barat, Kepulauan Yapen, Papua	2022-09-22T07:45:29.525
-598	YOGI	-7.8166	110.295	176.0	Station Yogyakarta China	2006-01-01T00:00:00
-599	YOGI2	-7.82	110.29	148.097	YOGI2	2023-11-14T07:46:33
-517342	MABKI	2.2433	118.5676	20.0	Maratua, Berau, Kalimantan Timur	2023-12-20T15:00:00
-527807	TBJKI	-1.847503	115.624908	81.6	Jaro, Tabalong, Kalimantan Selatan	2023-12-21T08:00:00
+23	BACE	-6.8741819	107.6002491	794.0	Stasiun Geofisika Klas I Cemara Bandung	2008-01-01T00:00:00
+24	BAJI	-7.09057	112.70853	76.0	Station Type B Bangkalan,Jawa Timur,Jawa Timur	2019-01-01T00:00:00
+25	BAKI	-1.19145	136.10702	89.0	Station Biak, Indonesia	2005-01-01T00:00:00
+26	BALE	-6.8264	107.6175	1287.0	Pos Observasi Geofisika Lembang	2012-05-31T00:00:00
+27	BAPJI	-7.912	111.305	244.0	Badegan, Ponorogo, Jawa Timur	2023-07-04T12:00:00
+28	BASAI	2.307	97.407	15.0	Pulau Banyak Barat, Aceh Singkil, Aceh	2023-12-20T00:00:00
+29	BASI	-10.2189	120.5777	80.84	Station Baing, Sumba, Indonesia (BMKG)	2009-01-01T00:00:00
+30	BASN	4.160618	96.115675	0.0	Noncollocated_DS(Seismotek)  Aceh Barat	2020-11-17T00:00:00
+31	BATI	-10.2065	123.6633	356.11	Station Kupang, Timor	2007-01-01T00:00:00
+32	BATPI	-2.5427	133.4455	17.0	Babo, Teluk Bintuni, Papua Barat	2023-08-05T07:45:29.525
+33	BBBCM	-5.5771	120.448	87.0	Station Type MR, Sulawesi Bonto Bahari, Selatan	2019-11-01T00:00:00
+34	BBBR	-8.60699	115.17778	20.0	REIS Badung	2018-07-02T00:00:00
+35	BBCI	1.158027	121.436232	8.0	Station Type A,Biau,Buol,Sulawesi Tengah	2019-01-01T00:00:00
+36	BBCM	-5.0392	120.058	546.0	Type MR, Bontocani,Bone,Sulawesi Selatan	2019-01-01T00:00:00
+37	BBJI	-7.462603	107.65	615.0	BMG-Net, Indonesia (IA-Net)	2016-09-05T00:00:00
+38	BBJM	-7.326	111.8099	175.0	Type MR, Bubulan,Bojonegoro,Jawa Timur	2019-01-01T00:00:00
+39	BBJN	-7.3638	108.5319	79.0	Noncollocated_DS(Seismotek) Banjar	2020-11-17T00:00:00
+40	BBJR	-7.39165	109.68877	268.0	REIS Banjarnegara	2018-01-02T00:00:00
+41	BBKI	-3.4625	114.8411	109.88	Station Banjar Baru, Kalimantan	2007-01-01T00:00:00
+42	BBLSI	-1.637539	123.52168	142.0	Type A, Banggai Tengah, Banggai Laut, Sulawesi Tengah	2022-09-22T07:45:29.525
+43	BBSI	-5.4885	122.56	95.0	Station Bau Bau, Buton	2007-01-01T00:00:00
+44	BBSI	-5.4879	122.5706	95.0	Station Bau Bau, Buton	2015-12-20T00:00:00
+45	BBSN	-0.2859	101.3661	879.0	Noncollocated_DS(Seismotek) Bukittinggi	2020-11-17T00:00:00
+46	BDBI	-8.52	115.2088	186.0	Badung,  Bali,  Indonesia	2021-11-26T00:00:00
+47	BDCM	-0.872636	119.586757	18.0	Type MR, Banawa Selatan ,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+48	BDMUI	1.322	126.362	12.0	Pulau Batang Dua, Ternate, Maluku Utara	2022-09-22T07:45:29.525
+49	BESI	4.719933	96.86546	1372.0	Station Type A, Bukit,Bener Meriah,Aceh	2019-01-01T00:00:00
+50	BESM	4.151615	96.325344	646.0	Type MR, Beutong,Nagan Raya,Aceh	2019-01-01T00:00:00
+51	BGASI	3.983	97.315	1078.0	Blang Kejeren, Gayo Lues, Aceh	2022-09-22T07:45:29.525
+52	BGCI	-0.8816	123.3911	11.0	Station Type A, Balantak,Banggai,Sulawesi Tengah	2019-01-01T00:00:00
+53	BGCM	-0.049644	119.880075	18.0	Type MR, Balaesang,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+54	BHCM	-2.7965	122.1259	11.0	Type MR, Bahodopi,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
+55	BJI	-7.3329	109.7096	629.0	Station Banjarnegara, Indonesia	2005-01-01T00:00:00
+56	BKASI	-0.202	100.318	853.0	Gaw Bukit Koto, Agam, Sumatera Barat	2022-09-22T07:45:29.525
+57	BKB	-1.1073	116.9048	110.0	GEOFON Station Balikpapan, Kalimantan, Indonesia	2005-12-06T00:00:00
+58	BKJI	-7.3633	108.5322	84.0	Station Type B Banjar,Kota Banjar,Jawa Barat	2019-01-01T00:00:00
+59	BKNI	0.3262	101.0396	65.0	GEOFON Station Bangkinang, Sumatra, Indonesia	2008-04-29T00:00:00
+60	BKSI	-5.3219	120.1224	606.0	Station Bulukumba, Sulawesi	2008-01-01T00:00:00
+61	BLCM	-0.122934	119.687071	11.0	Type MR, Balaesang Tanjung ,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+62	BLJI	-7.745	113.595	80.85	Station Banyuglugur, Java	2008-01-01T00:00:00
+63	BLSI	-5.3676	105.2452	146.79	Station Bandar Lampung, Sumatra	2007-01-01T00:00:00
+64	BLSM	-3.140218	102.8072	67.0	Type MR, Batukuning Lakitan Ulu,Musi Rawas,Sumatera Selatan	2019-01-01T00:00:00
+65	BMBNG	-6.66347	110.8839	1029.0	Station Type B Ternadi, Dawe, Kudus, Jawa Tengah	2021-12-31T00:00:00
+66	BMNI	-8.54	118.6926	62.95	Station Bima, Sumbawa	2007-01-01T00:00:00
+67	BMSI	-2.06641	102.31544	135.0	Station Type B Bangko,Merangin,Jambi	2019-01-01T00:00:00
+68	BNDI	-4.5224	129.9045	16.0	GEOFON Station Bandaneira, Indonesia	2008-07-04T00:00:00
+69	BNSI	-4.4006	120.1065	261.0	Station Bone, Sulawesi	2008-01-01T00:00:00
+70	BNTI	-8.7881	120.9768	1186.0	Station Type A, Bajawa,Ngada,Nusa Tenggara Timur	2019-01-01T00:00:00
+71	BOJI	-7.56815	110.68936	196.0	Station Type B Sawit,Boyolali,Jawa Tengah	2019-01-01T00:00:00
+72	BOSM	-4.859183	104.020736	640.0	Type MR, Banding Agung,Oku Selatan,Sumatera Selatan	2019-01-01T00:00:00
+73	BPJI	-7.81045	109.99712	64.0	Station Type B Bagelen,Purworejo,Jawa Tengah	2019-01-01T00:00:00
+74	BPMJM	-6.9505233	113.4922383	270.5	Station Type MR, Batumarmar, Pamekasan, Jawa Timur	2020-01-01T00:00:00
+75	BPSM	-1.1924	100.58998	110.0	Type MR, Bayang,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
+76	BSI	5.4964	95.2961	192.0	Station Banda Aceh, Indonesia	2005-01-01T00:00:00
+77	BSMI	-3.1075	130.4939	104.0	Station Bula, Maluku, Indonesia (BMKG)	2016-11-26T00:00:00
+78	BSSI	-6.1428	120.4904	114.3	Station Benteng, P.Selayar, Indonesia (BMKG)	2009-01-01T00:00:00
+79	BTCM	-2.4768	121.9241	21.0	Type MR, Bungku Tengah,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
+80	BTJI	-7.1972	109.1641	942.0	Station Type B Bumi Jawa,Tegal,Jawa Tengah	2019-01-01T00:00:00
+81	BTSPI	-2.3779	139.7042	32.0	Bonggo Timur, Sarmi, Papua	2022-09-22T07:45:29.525
+82	BTSR	-3.81942	102.29994	28.0	REIS Bengkulu	2018-01-02T00:00:00
+83	BUBSI	-0.855	122.207	39.0	Bunta, Banggai, Sulawesi Tengah	2022-09-22T07:45:29.525
+84	BUJI	-7.75603	109.46133	57.0	Station Type B Buayan,Kebumen,Jawa Tengah	2019-01-01T00:00:00
+85	BUKI	1.25	118.07	0.0	Berau,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
+86	BUMSI	-1.977807	121.334629	121.0	Station Type A, Bungku Utara, Morowali, Sulawesi Tengah	2022-09-22T07:45:29.525
+87	BUSI	5.2445125	96.243038	6.0	Station Type A, Bandar Baru,Pidie Jaya,Aceh	2019-01-01T00:00:00
+88	BUSN	3.61	98.495	0.0	Noncollocated_DS(Seismotek) Binjai	2020-11-17T00:00:00
+89	BWJI	-5.8511	112.6578	57.56	Station Bawean, BMG	2007-01-01T00:00:00
+90	BYJI	-8.214	114.3557	99.5	Station Banyu Wangi, Java	2008-01-01T00:00:00
+91	BYLI	-8.2273	116.4201	25.0	Station Type A, Bayan,Lombok Utara ,Nusa Tenggara Barat	2019-01-01T00:00:00
+92	CASI	4.62879	95.57668	11.0	Calang, Sumatra, Indonesia	2018-10-22T00:00:00
+93	CBJI	-6.6981	106.9349	1006.39	Station Citeko, Indonesia	2006-01-01T00:00:00
+94	CBJM	-6.93085	107.35624	679.0	Type MR, Cipongkor,Bandung Barat,Jawa Barat	2019-01-01T00:00:00
+95	CCJM	-7.01692	107.14019	48.0	Type MR, Campaka,Cianjur,Jawa Barat	2019-01-01T00:00:00
+96	CCJR	-6.9982	107.14267	121.0	REIS Campaka	2018-01-02T00:00:00
+97	CGJI	-6.6134	105.69	182.0	Station Cigeulis, Java	2008-01-01T00:00:00
+98	CGJR	-7.52318	107.48931	74.0	REIS Caringin-Garut	2018-01-02T00:00:00
+99	CIJI	-7.31741	108.19589	418.0	Station Type B Cipedes,Kota Tasikmalaya,Jawa Barat	2019-01-01T00:00:00
+100	CIJM	-6.492453	108.185243	43.0	Type MR, Cikedung,Indramayu,Jawa Barat	2019-01-01T00:00:00
+101	CIKJI	-6.041924	107.347374	18.4	Cibuaya, Karawang, Jawa Barat	2023-11-27T15:30:00
+102	CILA	-7.7185	109.015	0.0	STA MET CILACAP	2007-01-01T00:00:00
+103	CILJI	-7.72497	109.02293		Tide Gauge network	2016-07-01T00:00:00
+104	CILJI	-6.822	106.316	332.0	Cibeber, Lebak, Banten	2022-09-22T07:45:29.525
+105	CISI	-7.5557	107.8153	544.0	GEOFON Station Cisomped, Java, Indonesia	2008-07-21T00:00:00
+106	CLJI	-7.7187	109.015	45.73	Station Cilacap, Java	2007-01-01T00:00:00
+107	CLJO	-6.5659	106.4038	211.0	Gunung Gebas Serang Banten	2014-01-01T00:00:00
+108	CLJR	-6.73501	106.15918	490.0	REIS Cigemblong	2018-01-02T00:00:00
+109	CMJI	-7.784	108.449	78.0	Station Cimerak, Java	2008-01-01T00:00:00
+110	CMJN	-7.3278	108.3632	217.0	BPBD Ciamis	2018-01-01T00:00:00
+111	CNJI	-7.309	107.1296	589.0	Station Cibinong, Java	2008-01-01T00:00:00
+112	CPPU	-6.4999	107.0669	152.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
+113	CSBJI	-6.404687	107.881737	50.6	Compreng, Subang, Jawa Barat	2023-11-23T10:30:00
+114	CSJI	-7.3302	106.521	153.0	Station Type B Ciracap,Sukabumi,Jawa Barat	2019-01-01T00:00:00
+115	CSJM	-6.74052	108.0099	361.0	Type MR, Congeang,Sumedang,Jawa Barat	2019-01-01T00:00:00
+116	CSJR	-6.97205	106.82364	370.0	REIS Cikembar	2018-01-02T00:00:00
+117	CTJI	-7.00754	109.18356	104.0	Station Waduk Cacaban, Java, BMG, Indonesia	2007-01-01T00:00:00
+118	CWJM	-6.74236	107.44486	649.0	Type MR, Cikalong Wetan,Bandung Barat,Jawa Barat	2019-01-01T00:00:00
+119	DASN	3.7314	96.8489	0.0	Noncollocated_DS(Seismotek) Aceh Barat Daya	2020-11-17T00:00:00
+120	DBJI	-6.5538	106.7497	210.84	Station Dramaga, Java	2007-01-01T00:00:00
+121	DBKI	-1.6792	114.9079	32.0	Station Type A, Dusun Selatan,Barito Selatan,Kalimantan Tengah	2019-01-01T00:00:00
+122	DBNFM	-8.424084	118.594821	696.0	Station Type MR, Donggo, Nusa Tenggara Barat	2020-11-01T00:00:00
+123	DBNI	-8.50188	118.31213	185.0	Station Kabupaten Dompu, Sumbawa, BMG, Indonesia	2007-01-01T00:00:00
+124	DDSI	1.6675	101.4602	76.0	Station Type A, Dumai Timur Riau	2019-01-01T00:00:00
+125	DEBI	-8.738	115.179	0.0	BALAI BESAR WIL III DENPASAR	2007-01-01T00:00:00
+126	DEMO	-8.741	115.177	43.0	STA MET NGURAH RAI DENPASAR	2007-01-01T00:00:00
+127	DNP	-8.6774	115.2097	63.88	Station Denpasar, Indonesia	2006-01-01T00:00:00
+128	DNPB	-8.73838	115.17846	45.1	DNPB	2019-01-01T00:00:00
+129	DOCM	-0.675868	119.74873	50.0	Type MR, Donggala,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+130	DSJR	-6.84605	106.92434	946.0	REIS Kadudampit	2018-01-02T00:00:00
+131	DSRI	-0.4793	104.5778	58.43	Station Dabo, Singkep	2007-01-01T00:00:00
+132	DWIKO	-8.0102	110.414	361.0	Station Type MR, Panggang, Gunung Kidul, DIY	2020-10-01T00:00:00
+133	DYPI	-4.8521	139.4991	87.0	Station Type A, Dekai,Yakuhimo,Papua	2019-01-01T00:00:00
+134	EDFI	-8.7497	121.6903	914.34	Station Ende, Flores, Indonesia (BMKG)	2009-01-01T00:00:00
+135	EDMPI	-7.175	139.585	15.0	Edera, Mappi, Papua	2023-08-15T07:45:29.525
+136	EGSI	-5.3526	102.2767	35.73	Station Enggano, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
+137	ELMPI	-7.489	140.789	51.0	Eligobel, Merauke, Papua	2022-09-22T07:45:29.525
+138	ERPI	-3.926867	136.380947	1675.0	Enarotali, East Paniai, Papua	2017-12-01T00:00:00
+139	ESNI	-8.85	117.96	0.0	Empang,  Sumbawa,  Nusat  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+140	FAKI	-2.9192	132.265	0.0	GEOFON Station Fakfak, Indonesia	2008-11-26T00:00:00
+141	FKMPM	-8.2515	140.2666	95.0	Station Type MR, Kurik, Merauke, Papua	2020-10-01T00:00:00
+142	FKSPI	-1.1594	132.016	139.0	Fkour, Sorong Selatan, Papua Barat	2022-09-22T07:45:29.525
+143	GARPI	-0.43465	129.9	49.0	Pulau Gag, Raja Ampat, Papua Barat	2023-08-03T07:45:29.525
+144	GBJI	-6.9485	109.966	102.0	Station Type B Gringsing,Batang,Jawa Tengah	2019-01-01T00:00:00
+145	GBJO	-6.83	107.63	211.0	LEMBANG - VSAT	2014-01-01T00:00:00
+146	GEBBI	-8.164	114.714	33.0	Gerokgak, Buleleng, Bali	2022-09-22T07:45:29.525
+147	GEJI	-8.41019	112.64507	80.0	Station Type B Gedangan,Malang,Jawa Timur	2019-01-01T00:00:00
+148	GENI	-2.59268	140.167757	58.0	GEOFON Station Genyem, Indonesia	2009-11-26T00:00:00
+149	GESM	4.8421	96.1278	1034.0	Type MR, Geumpang,Pidie,Aceh	2019-01-01T00:00:00
+150	GGJI	-7.03022	110.92097	82.0	Station Type B Grobogan,Grobogan,Jawa Tengah	2019-01-01T00:00:00
+151	GGJM	-7.1717	111.2037	81.0	Type MR, Gabus,Grobogan,Jawa Tengah	2019-01-01T00:00:00
+152	GHMI	-0.35629	127.8797	37.0	Station Type A, Gane Barat,Halmahera Selatan,Maluku Utara	2019-01-01T00:00:00
+153	GKJM	-7.8411	110.5922	211.0	Type MR, Gedangsari,Gunung Kidul,D.I Yogyakarta	2019-01-01T00:00:00
+154	GLMI	1.8381	127.7879	130.21	Station Galela, Maluku, Indonesia (BMKG)	2009-01-01T00:00:00
+155	GMJI	-8.2732	113.4441	80.13	Station Gumukmas, Java	2008-01-01T00:00:00
+156	GPSM	4.869343	96.090448	417.0	Type MR, Geumpang,Pidie,Aceh	2019-01-01T00:00:00
+157	GRJI	-6.9145	112.4793	97.14	Station Gresik, Java	2008-01-01T00:00:00
+158	GSI	1.3039	97.5755	107.0	GEOFON Station Gunungsitoli, Nias	2005-10-02T00:00:00
+159	GTJI	-7.163845	110.183745	749.0	Station Type B, Gemawang Temanggung	2021-12-31T00:00:00
+160	GTOI	0.7628	122.87	313.3	Station Gorontalo China	2006-12-01T00:00:00
+161	GTSI	-0.5981	101.4888	9.0	Station Type A, Gunung Toar,Kuantan Singingi,Riau	2019-01-01T00:00:00
+162	GUJM	-7.0544	110.666	85.0	Type MR, Gubug,Grobogan,Jawa Tengah	2019-01-01T00:00:00
+163	HINSI	-0.54	98.499	35.0	Hibala, Nias Selatan, Sumatera Utara	2022-09-22T07:45:29.525
+164	IATSM	4.92405	97.784545	28.0	Station Type MR, Idi, Aceh Timur, Sumatera	2020-10-01T00:00:00
+165	IBTI	-8.3894	123.2645	154.0	Station Type A, Ile Boleng,Flores Timur,Nusa Tenggara Timur	2019-01-01T00:00:00
+166	IGBI	-8.818	115.146	248.0	Station Ingas Bali China	2006-01-01T00:00:00
+167	IHMI	1.508213	127.555625	130.0	Station Type A, Ibu,Halmahera Barat,Maluku Utara	2019-01-01T00:00:00
+168	IHRSI	0.02	103.17	0.0	Indragiri Hilir, Riau, Sumatera Indonesia	2021-11-26T00:00:00
+169	IWPI	-2.7581	134.5162	36.0	Station Type A, Rasiei,Teluk Wondama,Papua Barat	2019-01-01T00:00:00
+170	JAASI	3.766	96.82	12.0	Jeumpa, Aceh Barat Daya, Aceh	2022-09-22T07:45:29.525
+171	JABI	-6.3031	106.7566	58.0	Balai Besar Wilayah II Tangerang Selatan	2011-01-01T00:00:00
+172	JAGI	-8.4703	114.152	171.0	GEOFON Station Jajag, Java, Indonesia	2008-07-21T00:00:00
+173	JARU	-6.2868	106.5638	56.0	Stasiun Meteorologi Klas II Budiarto Curug	2010-01-01T00:00:00
+174	JASI	-1.41453	101.45838	253.0	Station Type B Sangir Balai Janggo,Solok Selatan,Sumatera Barat	2019-01-01T00:00:00
+175	JASN	4.63568	95.58216	24.0	Noncollocated_DS(Seismotek) Aceh Jaya	2020-11-16T00:00:00
+176	JAUI	-6.3672	106.82705	367.0	KAMPUS UI DEPOK	2010-01-01T00:00:00
+177	JAY	-2.5145	140.7043	461.46	Station Jayapura, Indonesia	2006-01-01T00:00:00
+178	JBJI	-6.48374	106.46986	146.0	Station Type B Jasinga,Bogor,Jawa Barat	2019-01-01T00:00:00
+179	JBJM	-6.9729	111.4587	98.0	Type MR, Jepon,Blora,Jawa Tengah	2019-01-01T00:00:00
+180	JCJI	-6.7344	108.2631	85.57	Station Jatiwangi, Indonesia	2006-01-01T00:00:00
+181	JHMI	1.082067	127.47828	36.0	Station Type A, Jailolo,Halmahera Barat,Maluku Utara	2019-01-01T00:00:00
+182	JMBI	-1.6764	103.576	76.1	Station Jambi China	2006-01-01T00:00:00
+183	JMSI	-2.63715	101.88745	1275.0	Station Type B Jangkat,Merangin,Jambi	2019-01-01T00:00:00
+184	JPJI	-6.5307	107.4175	150.0	Station Type B Jatiluhur,Purwakarta,Jawa Barat	2019-01-01T00:00:00
+185	JPSI	-1.34164	100.58645	38.0	Station Type B Jurai,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
+186	JSBFM	-8.8716567	116.8164717	79.0	Station Type MR, Jereweh, Nusa Tenggara Barat	2020-01-01T00:00:00
+187	JTJM	-7.0573	106.8015	528.0	Type MR, Jampang Tengah,Sukabumi,Jawa Barat	2019-01-01T00:00:00
+188	JTPU	-6.523	107.388	152.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
+189	JWJM	-7.206245	110.731458	74.0	Type MR, Juwangi ,Boyolali,Jawa Tengah	2019-01-01T00:00:00
+190	KABKI	-0.750684	116.241898	51.8	Bongan, Kutai Barat, Kalimantan Timur	2023-12-22T02:30:00
+191	KAKKI	1.366887	117.750031	27.6	Karangan, Kutai Timur	2023-12-27T13:35:00
+192	KARPI	-0.061	130.991	21.0	Kabare, Raja Ampat, Papua Barat	2023-08-04T07:45:29.525
+193	KASAI	2.491893	97.858239	4.0	Station Type A, Kota Baharu, Aceh Singkil, Aceh	2022-09-22T07:45:29.525
+194	KASI	-5.5236	104.4967	50.0	Station Kota Agung, Sumatra	2008-01-01T00:00:00
+195	KBBI	-8.286	115.2547	1053.0	Station Type B Kintamani,Bangli,Bali	2019-01-01T00:00:00
+196	KBJM	-7.0505	111.2329	62.0	Type MR, Kunduran,Blora,Jawa Tengah	2019-01-01T00:00:00
+197	KBJN	-7.668022	109.668182	51.0	BPBD KEBUMEN - VSAT	2014-11-23T00:00:00
+198	KBKI	-3.2995	116.1668	65.0	Station Kotabaru, Kalimantan	2008-01-01T00:00:00
+199	KBSSI	-9.593	118.993	22.0	Kodi Bangedo, Sumba Barat Daya, Nusa Tenggara Timur	2023-07-27T07:45:29.525
+200	KCJN	-7.7019	110.5965	190.0	Noncollocated_DS(Seismotek) Klaten	2020-10-28T00:00:00
+201	KCJR	-6.9064	107.11107	508.0	REIS Pasir Kelapa	2018-01-02T00:00:00
+202	KCSI	3.522	97.7715	204.749	Station Kotacane, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
+203	KDI	-3.95743	122.61926	55.0	Station Kendari, Sulawesi	2006-12-26T00:00:00
+204	KGCM	0.639702	122.851648	32.0	Type MR, Kwandang,Gorontalo,Gorontalo	2019-01-01T00:00:00
+205	KHK	-8.36404	115.60964	220.0	Station Kahang-Kahang, Bali	2007-04-03T00:00:00
+206	KHSSI	-9.801	119.945	608.0	Katala Hamu Lingu, Sumba Timur, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+207	KIMPI	-7.979	138.852	8.0	Kimaam, Merauke, Papua	2023-08-21T07:45:29.525
+208	KJCM	-5.5646	119.8026	199.0	Station Type MR, Kelara, Sulawesi Selatan	2019-11-01T00:00:00
+209	KJJR	-6.86074	107.92037	458.0	REIS BPBD Sumedang	2018-07-02T00:00:00
+210	KKJM	-7.843384	110.057248	115.0	Type MR, Kokap, Kulon Progo, D.I Yogyakarta	2023-11-30T10:00:00
+211	KKJN	-6.984194	108.483319	526.0	BPBD KUNINGAN	2017-10-16T00:00:00
+212	KKJR	-7.84773	110.16858	29.0	REIS Kulon progo	2018-07-02T00:00:00
+213	KKKI	-2.5137	110.1951	39.0	Station Type A, Kendawangan,Ketapang,Kalimantan Barat	2019-01-01T00:00:00
+214	KKKKI	-1.871143	113.419801	79.0	Station Type A, Katingan Kuala, Katingan, Kalimantan Tengah	2022-09-22T07:45:29.525
+215	KKMI	-5.6923	132.718	72.0	Station Type A, Kei Kecil,Maluku Tenggara,Maluku	2019-01-01T00:00:00
+216	KKSI	-4.1718	121.6513	89.03	Station Kolaka, Sulawesi, Indonesia (BMKG)	2009-01-01T00:00:00
+217	KKTKI	1.186094	116.949317	113.0	Station Type A, Kombeng, Kutai Timur, Kalimantan Timur	2022-09-22T07:45:29.525
+218	KLI	-4.8363	104.87052	64.0	Station Kotabumi, Indonesia	2006-01-01T00:00:00
+219	KLJI	-7.99607	113.25175	240.0	Station Type B Klakah,Lumajang,Jawa Timur	2019-01-01T00:00:00
+220	KLNI	-8.42188	116.09492	99.0	Station Mataram, Plombok, BMG, Indonesia	2007-01-01T00:00:00
+221	KLSI	-4.6871	104.7317	80.7	Station Kotabumi China	2006-01-01T00:00:00
+222	KLSM	3.0863	97.3298	18.0	Type MR, Kluet Utara,Aceh Selatan,Aceh	2019-01-01T00:00:00
+223	KMBFM	-8.5654217	120.31311	1217.0	Station Type MR, Kuwus, Manggarai Barat, Nusa Tenggara Timur	2020-10-01T00:00:00
+224	KMMI	-7.0412	113.9157	49.14	Station Kalianget, Indonesia	2006-01-01T00:00:00
+225	KMNI	-8.5883	116.0995	0.0	Kota  Mataram  Nusa  Tenggara  Barat  Indonesia	2021-11-26T00:00:00
+226	KMPI	-3.6616	133.7044	90.04	Station Kaimana, Papua, Indonesia (BMKG)	2009-01-01T00:00:00
+227	KMSI	0.5745	123.98	218.0	Station Kotamubagu, Sulawesi	2008-01-01T00:00:00
+228	KOMFI	-8.536	119.547	16.0	Komodo, Manggarai Barat, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+229	KORPI	-1.158	129.845	11.0	Kofiau, Raja Ampat, Papua Barat	2022-09-22T07:45:29.525
+230	KPJI	-7.3333	108.931	111.0	Station Karang Pucung, Java	2008-01-01T00:00:00
+231	KPJM	-7.1883	111.9281	23.0	Type MR, Kapas,Bojonegoro,Jawa Timur	2019-01-01T00:00:00
+232	KRAI	-3.318326	128.39476	59.6	Station Kairatu, Seram Bagian Barat, Maluku	2009-10-20T00:00:00
+233	KRJI	-2.0912	101.4619	810.88	Station Kerinci, Sumatra	2007-01-01T00:00:00
+234	KRK	-8.1521	112.4506	330.26	Station Karangkates, Indonesia	2006-01-01T00:00:00
+235	KRSI	-1.82	119.42	60.3	Station Karosa China	2019-11-01T00:00:00
+236	KSI	-3.6517	102.5929	539.0	Station Kepahiang, Indonesia	2005-01-01T00:00:00
+237	KSJR	-6.83145	106.66215	0.0	REIS Kalapanungal	2018-01-02T00:00:00
+238	KTMI	-7.669066	131.579205	59.0	Station Type A, Kormomolin,Kepulauan Tanimbar,Maluku	2019-01-01T00:00:00
+239	KTTI	-10.01356	124.5339	87.0	Station Type A, Kolbano,Timor Tengah Selatan,Nusa Tenggara Timur	2019-01-01T00:00:00
+240	KUBSI	-4.78121	123.18684	59.0	Kulisusu, Buton Utara, Sulawesi Tenggara	2022-09-22T07:45:29.525
+241	KUKI	-0.0394	115.6305	0.0	Kutai  Barat,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
+242	KUSI	3.1964	97.3706	29.0	Station Type A, Kluet Utara,Aceh Selatan,Aceh	2019-01-01T00:00:00
+243	KWJI	-7.3837	109.9691	868.0	Station Type B Kertek,Wonosobo,Jawa Tengah	2019-01-01T00:00:00
+244	KYJR	-7.79915	110.38726	0.0	REIS Kota Yogyakarta	2018-07-02T00:00:00
+245	LASI	4.4572	97.9704	4.34	Station Langsa, Aceh, Sumatra, Indonesia (BMKG)	2009-10-20T00:00:00
+246	LBFI	-8.48	119.8921	75.0	Station Labuhan Bajo China	2006-12-01T00:00:00
+247	LBMI	-0.6379	127.5008	113.91	Station Labuha, Bacan, Indonesia (BMKG)	2007-01-01T00:00:00
+248	LBNFM	-8.6017	119.0124	75.0	Station Type MR, Lambu, Nusa Tenggara Barat	2020-01-01T00:00:00
+249	LBTSI	-0.475	100.625	417.0	Lintau Buo Utara, Tanah Datar, Sumatera Barat	2022-09-22T07:45:29.525
+250	LDSI	2.886	98.157	819.0	Sukandebi, Sumatra Utara	2019-09-16T00:00:00
+251	LEM	-6.8266	107.61756	1293.0	Station Lembang, Indonesia	2005-01-01T00:00:00
+252	LEM	-6.82325	107.6143	1200.0	Station Lembang, Indonesia	2010-09-29T16:55:00
+253	LEMFI	-8.707	120.172	187.0	Lembor, Manggarai Barat, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+254	LESM	-4.96147	103.71256	39.0	Type MR, Lemong,Pesisir Barat,Lampung	2019-01-01T00:00:00
+255	LHMI	5.2288	96.9472	3.0	GEOFON Station Lhokseumave, Sumatra, Indonesia	2008-02-29T00:00:00
+256	LHSI	-3.8267	103.5233	183.68	Station Lahat, Sumatra	2008-01-01T00:00:00
+257	LHSM	-4.1779734	103.5742079	1494.0	Type MR, Semendo,Lahat,Sumatera Selatan	2019-01-01T00:00:00
+258	LISM	4.4785	96.78746	1374.0	Type MR, Lingge Isaq,Aceh Tengah,Aceh	2019-01-01T00:00:00
+259	LJPI	-3.1271	139.945	405.0	Station Type A, Lereh,Jayapura,Papua	2019-01-01T00:00:00
+260	LKCI	-3.4921	120.8858	75.0	Station Type A, Lasusua, Lasusua, Sulawesi Tenggara	2019-01-01T00:00:00
+261	LKSM	0.1845	100.6007	186.0	Type MR, Suliki,Limapuluh Koto,Sumatera Barat	2019-01-01T00:00:00
+262	LKUCM	-3.2924	122.2332	107.0	Station Type MR, Langgikima, Sulawesi Tenggara	2020-11-01T00:00:00
+263	LLSI	-3.27843	102.9139	129.0	Station Type B Lubuk Linggau Barat,Kota Lubuk Linggau,Sumatera Selatan	2019-01-01T00:00:00
+264	LLSM	-5.60039	104.80943	37.0	Type MR, Limau,Tanggamus,Lampung	2019-01-01T00:00:00
+265	LMNI	-8.23386	123.7157	74.0	Station Lembata China	2019-11-01T00:00:00
+266	LMTI	-8.6011	120.4771	1145.0	Station Type A, Langke Rembong,Manggarai,Nusa Tenggara Timur	2019-01-01T00:00:00
+267	LOCM	-1.6502	120.1825	1370.0	Type MR, Lore Tengah,Poso,Sulawesi Tengah	2019-01-01T00:00:00
+268	LOMSI	-4.91095	122.74157	58.0	Lohia, Muna, Sulawesi Tenggara	2022-09-22T07:45:29.525
+269	LPCM	-3.5012	119.5378	29.0	Type MR, Lembang,Pinrang,Sulawesi Selatan	2019-01-01T00:00:00
+270	LPJR	-7.50391	108.40168	558.0	REIS Langkaplancar	2018-01-02T00:00:00
+271	LPSM	-1.7082	100.7196	110.0	Type MR, Lengayang,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
+272	LRTI	-8.2752	123.0	53.0	Station LRTI	2013-01-01T00:00:00
+273	LSCM	-4.365	119.8987	109.0	Type MR, Lalabati Rilau,Soppeng,Sulawesi Selatan	2019-01-01T00:00:00
+274	LSJR	-7.1312	106.69216	592.0	REIS Lengkong	2018-01-02T00:00:00
+275	LSNI	-8.96	117.18	0.0	Lunyuk,  Sumbawa,  Nusat  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+276	LSSN	-2.6144	121.10245	112.0	Noncollocated_DS(Seismotek) Luwu Timur	2020-12-03T00:00:00
+277	LTNI	-8.75	116.48	0.0	Lombok  Timur,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+278	LTNSI	1.336	97.32	52.0	Lahewa Timur, Nias Utara, Sumatera Utara	2022-09-22T07:45:29.525
+279	LTSM	1.52936	98.9305	5.0	Type MR, Lumut,Tapanuli Tengah,Sumatera Utara	2019-01-01T00:00:00
+280	LUCM	-1.4262	120.3225	1102.0	Type MR, Lore Utara,Poso,Sulawesi Tengah	2019-01-01T00:00:00
+281	LUJI	-7.826	113.0107	665.0	Station Type B Lumbang,Pasuruan,Jawa Timur	2019-01-01T00:00:00
+282	LUWI	-1.0418	122.7717	6.0	GEOFON Station Luwuk, Sulawesi, Indonesia	2008-03-10T00:00:00
+283	LWLI	-5.0175	104.0589	938.05	Station Liwa, Sumatra	2007-01-01T00:00:00
+284	MABKI	2.2433	118.5676	20.0	Maratua, Berau, Kalimantan Timur	2023-12-20T15:00:00
+285	MAKBI	-8.487	115.505	86.0	Manggis, Karangasem, Bali	2022-09-22T07:45:29.525
+286	MAKKI	-1.582298	108.796982	39.2	Kep. Karimata, Kayong Utara, Kalimantan Barat	2023-12-29T11:00:00
+287	MASFI	-8.537	122.032	13.0	Magepanda, Sikka, Nusa Tenggara Timur	2023-07-17T07:45:29.525
+288	MASI	-3.1415	102.2396	384.5	Station Muara Aman, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
+289	MASM	5.29847	95.59667	82.0	Type MR, Masjid Raya,Aceh Besar,Aceh	2019-01-01T00:00:00
+290	MASSI	4.733	125.479	105.0	Marore, Kepulauan Sangihe, Sulawesi Utara	2023-08-19T07:45:29.525
+291	MBBI	-1.5406	102.0984	113.0	Station Type B Muara Bungo,Bungo,Jambi	2019-01-01T00:00:00
+292	MBJI	-7.44892	109.63243	352.0	Station Majalengka Banjarnegara Jawa Indonesia	2018-10-22T00:00:00
+293	MBPI	-2.035	133.7322	57.0	Station Type A, Manimeri,Teluk Bintuni,Papua Barat	2019-01-01T00:00:00
+294	MBRPI	-1.771	130.407	2.0	Misool Barat, Raja Ampat, Papua Barat	2023-08-09T07:45:29.525
+295	MBSI	-3.7611	102.2714	28.05	Station University, Bengkulu, Indonesia (BMKG)	2008-01-01T00:00:00
+296	MBSM	-3.1451	101.8374	37.0	Type MR, Marga Sakti Seblat ,Bengkulu Utara,Bengkulu	2019-01-01T00:00:00
+297	MBSR	-4.44095	102.89383	15.0	REIS Manna	2018-01-02T00:00:00
+298	MDSI	-4.4861	104.1783	111.0	Station Muara Dua, Sumatra	2008-01-01T00:00:00
+299	MGAI	4.0079	126.67	91.0	Station MGAI	2013-01-01T00:00:00
+300	MGJR	-7.4098	107.6916	753.0	REIS Pamulihan	2018-01-02T00:00:00
+301	MIBPI	-5.879	140.709	51.0	Mindiptana, Boven Digoel, Papua	2022-09-22T07:45:29.525
+302	MIPI	-4.5301	136.8935	30.0	Station Type A, Mimika Baru,Mimika,Papua	2019-01-01T00:00:00
+303	MISSI	5.552612	126.58147	11.0	Miangas, Kepulauan Talaud, Sulawesi Utara	2023-08-22T07:45:29.525
+304	MJSI	-3.5008	118.9149	306.8	Station Majene, Sulawesi	2007-01-01T00:00:00
+305	MKBI	-2.4474	101.2396	48.21	Station Muko-Muko, Bengkulu, Indonesia (BMKG)	2009-01-01T00:00:00
+306	MKJM	-7.6629	110.4834	410.0	Type MR, Manisrenggo,Klaten,Jawa Tengah	2019-01-01T00:00:00
+307	MKS	-5.2178	119.4696	80.32	Station Gowa, Sulawesi, Indonesia (BMKG)	2015-01-01T00:00:00
+308	MKSM	-4.5288	103.36	300.0	Type MR, Muara Sahung,Kaur,Bengkulu	2019-01-01T00:00:00
+309	MLJI	-8.157473	112.446699	275.0	Malang Jawa Indonesia	2018-10-30T00:00:00
+310	MLJM	-7.2483	112.3379	55.0	Type MR, Mantup,Lamongan,Jawa Timur	2019-01-01T00:00:00
+311	MLMMI	-8.148	127.792	8.0	Moa Lakor, Maluku Barat Daya, Maluku	2023-08-21T07:45:29.525
+312	MLSI	4.2668	96.404	96.94	Station Meulaboh, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
+313	MMCI	-2.95597	119.3631	1167.0	Station Type A, Mamasa,Mamasa,Sulawesi Barat	2019-01-01T00:00:00
+314	MMPI	-8.5181	140.4141	98.57	Station Merauke, Indonesia	2006-01-01T00:00:00
+315	MMRI	-8.6357	122.2376	137.0	GEOFON Station Maumere, Flores, Indonesia	2006-11-09T00:00:00
+316	MMSI	-2.6892	118.909	221.3	Station Mamuju China	2006-12-01T00:00:00
+317	MNAI	-4.3605	102.9557	154.0	GEOFON Station Manna, Sumatra, Indonesia	2006-07-27T00:00:00
+318	MNI	1.44397	124.83998	191.0	Station Manado, Sulawesi	2005-01-01T00:00:00
+319	MNSI	0.7955	99.5796	294.4	Station Mandailing Natal, Sumatra	2008-01-01T00:00:00
+320	MPSI	0.3374	119.898	174.0	Station Mapaga, Sulawesi	2008-01-01T00:00:00
+321	MPSM	0.5891	100.1383	195.0	Type MR, Mapat Tunggul,Pasaman,Sumatera Barat	2019-01-01T00:00:00
+322	MRSI	0.4771	121.9406	99.0	Station Marisa, Sulawesi	2008-01-01T00:00:00
+323	MSAI	-3.346145	128.928482	8.5	Station Amahai, Masohi, Maluku	2007-01-01T00:00:00
+324	MSCM	-2.5358	120.2813	108.0	Type MR, Masamba,Luwu Utara,Sulawesi Selatan	2019-01-01T00:00:00
+325	MSHHI	0.629	128.425	29.0	Maba Selatan, Halmahera Timur, Maluku Utara	2022-09-22T07:45:29.525
+326	MSSI	-2.5547	120.3241	116.0	Station Masamba, Sulawesi	2007-01-01T00:00:00
+327	MTAI	2.19802	128.27585	24.0	Station Morotai, North Maluku, Indonesia	2018-09-14T00:00:00
+328	MTCM	-2.573883	121.054464	21.0	Type MR, Malili,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
+329	MTJPI	-2.627	140.864	6.0	Muara Tami, Jayapura, Papua	2022-09-22T07:45:29.525
+330	MTKI	-0.9418	114.8959	100.11	Station Muara Teweh, Kalimantan, Indonesia (BMKG)	2008-06-21T00:00:00
+331	MTMPI	-2.305	138.037	67.0	Mamberamo Tengah, Mamberamo Raya, Papua	2022-09-22T07:45:29.525
+332	MTMTI	-9.58	124.88	25.0	Malaka Tengah, Malaka, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+333	MTNI	-8.636	116.1707	108.3	Station Mataram, Plombok	2007-01-01T00:00:00
+334	MTSI	2.1524	98.2524	8.0	Station Type A, Manduamas,Tapanuli Tengah,Sumatera Utara	2019-01-01T00:00:00
+335	MTSM	-4.4793	103.5062	803.0	Type MR, Muara Dua,Oku Selatan,Sumatera Selatan	2019-01-01T00:00:00
+336	MUMUI	-1.785	125.481	11.0	Mangoli Utara, Kepulauan Sula, Maluku Utara	2023-08-19T07:45:29.525
+337	MUNJI	-8.43793	114.34801		Tide Gauge network	2016-07-01T00:00:00
+338	MUTSI	2.3	98.965	1571.0	Muara, Tapanuli Utara, Sumatera Utara	2022-09-22T07:45:29.525
+339	MWPI	-0.9258	134.0431	30.0	Station Manokwari China	2009-07-01T00:00:00
+340	NANFI	-8.761	121.302	644.0	Nangaroro, Nagekeo, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+341	NBBI	-8.4597	114.942	300.74	Station Negara, Indonesia	2006-01-01T00:00:00
+342	NBJR	-8.17513	112.33462	189.0	REIS Desa Ngembul	2018-07-02T00:00:00
+343	NBMI	-3.8509	126.6995	59.0	Station Type A, Namrole,Buru Selatan,Maluku	2019-01-01T00:00:00
+344	NBPI	-3.3656	135.4972	98.81	Station NBPI (ex-JAY1)	2012-10-26T00:00:00
+345	NGJI	-7.3676	111.4612	149.0	Station Ngawi, Java	2008-01-01T00:00:00
+346	NJBM	-8.30984	114.617125	199.0	Station Type MR, Negara, Bali	2020-01-01T00:00:00
+347	NKBI	-8.726115	115.5259633	452.0	Station Type B Nusa Penida,Klungkung,Bali	2019-01-01T00:00:00
+348	NKKI	-1.5605	110.5671	69.0	Station Type A, Nangan Tayap, Ketapang, Kalimantan Barat	2019-01-01T00:00:00
+349	NLAI	-3.239	127.0998	101.92	Station Namlea, Ambon	2008-01-01T00:00:00
+350	NSBMM	-3.0828917	128.2096033	86.0	Station Type MR, Seram Barat, Maluku	2020-10-01T00:00:00
+351	OBMI	-1.3413	127.6444	110.89	Station Pulau, BMG, Indonesia	2012-01-01T00:00:00
+352	OBMPI	-6.555	139.3	21.0	Obaa, Mappi, Papua	2023-08-25T15:38:29.525
+353	OMBFM	-8.6911917	119.8248167	102.0	Station Type MR, Komodo, Manggarai Barat, NTT	2020-10-01T00:00:00
+354	ONSM	2.1599	98.6301	1158.0	Type MR, Onan Ganjang,Humbang Hasundutan,Sumatera Utara	2019-01-01T00:00:00
+355	OSSN	-3.018655	120.17921	105.0	Noncollocated_DS(Seismotek)  Palopo	2020-11-26T00:00:00
+356	PAASI	5.671	95.129	9.0	Pulo Aceh, Aceh Besar, Aceh	2022-09-22T07:45:29.525
+357	PABI	0.1236	99.8719	155.0	Station Type A, Pasaman,Pasaman Barat,Sumatera Barat	2019-01-01T00:00:00
+358	PABKI	-3.112172	115.36422	110.1	Paramasan, Kalimantan Selatan	2023-12-24T11:45:00
+359	PACJI	-8.26695	111.37356		Tide Gauge network	2016-07-01T00:00:00
+360	PAFM	-8.3832	124.128	77.0	Station Type MR, Pantar Tengah, Alor, NTT	2020-10-01T00:00:00
+361	PAGA	-0.25	100.382	0.0	STA GAW BUKIT TINGGI	2007-01-01T00:00:00
+362	PAKI	-1.84	116.18	0.0	Paser,  Kalimantan  Timur,  Indonesia	2021-11-26T00:00:00
+363	PANJI	-7.6865	108.67377		Tide Gauge network	2016-07-01T00:00:00
+364	PAPA	-0.466	100.379	726.0	STA GEOF PADANG PANJANG	2007-01-01T00:00:00
+365	PASC	-0.545	100.29	130.0	STA KLIM SICINCIN PADANG	2007-01-01T00:00:00
+366	PASJI	-6.212	105.9835	248.0	Padarincang, Serang, Banten	2022-09-22T07:45:29.525
+367	PASMI	-2.9646	100.2028	39.0	Pagai Selatan, Kepulauan Mentawai, Sumatera Barat	2023-08-06T07:45:29.525
+368	PATU	-0.997	100.371	0.0	STA MAR TELUK BAYUR PDG	2007-01-01T00:00:00
+369	PBCI	0.38301	124.0396	33.0	Station Type A, Poigar,Bolaang Mongondow,Sulawesi Utara	2019-01-01T00:00:00
+370	PBJI	-7.0874	107.4757	1090.0	Station Type B, Pasir Jambu	2019-01-01T00:00:00
+371	PBJR	-7.95583	110.34333	44.0	REIS Pundong	2018-07-02T00:00:00
+372	PBKI	-2.7047	111.6697	74.44	Station Pangkalan Bun, Kalimantan	2007-01-01T00:00:00
+373	PBLI	-8.8218	116.2778	106.0	Station Type A, Pujut,Lombok Tengah ,Nusa Tenggara Barat	2019-01-01T00:00:00
+374	PBMMI	-7.86	129.597	7.0	Pulau-Pulau Babar, Maluku Barat Daya, Maluku	2023-08-26T21:45:29.525
+375	PBMSI	0.995298	124.282277	88.0	Station Type A, Poigar, Bolaang Mongondow, Sulawesi Utara	2022-09-22T07:45:29.525
+376	PBNI	-8.79	118.57	0.0	Parado,  Bima,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+377	PBSI	-0.0547	98.28	47.0	Station Pulau Batu, Sumatra	2008-01-01T00:00:00
+378	PCI	-0.9054	119.8366	150.0	Station Palu, Indonesia	2005-01-01T00:00:00
+379	PCJI	-8.1947	111.1771	702.27	Station Pacitan, Java	2008-01-01T00:00:00
+380	PCJM	-6.912934	108.719107	646.0	Type MR, Pabuaran,Cirebon,Jawa Barat	2019-01-01T00:00:00
+381	PDGB	100.298818	0.545579	129.0	PDGB	2020-01-01T00:00:00
+382	PDLI	-8.1037	117.8729	16.0	Station Type A,Tambora,Dompu,Nusa Tenggara Barat	2019-01-01T00:00:00
+383	PDSI	-0.9118	100.4617	275.6	Station Padang, Sumatra	2007-01-01T00:00:00
+384	PGJM	-8.0102	110.414	361.0	Station Type MR, Panggang, Gunung Kidul, DIY	2020-10-01T00:00:00
+385	PGJR	-7.64554	107.72842	57.0	REIS Pameungpeuk	2018-01-02T00:00:00
+386	PICM	-0.710997	120.088757	40.0	Type MR, Parigi Utara,Parigi Moutong,Sulawesi Tengah	2019-01-01T00:00:00
+387	PKCI	-4.3507	122.3436	201.0	Station Type A, Palangga, Palangga,Sulawesi Tenggara	2019-01-01T00:00:00
+388	PKJI	-7.1678	109.5798	847.0	Station Type B Paninggaran,Pekalongan,Jawa Tengah	2019-01-01T00:00:00
+389	PKJM	-6.79577	108.43985	290.0	Type MR, Pasawahan,Kuningan,Jawa Barat	2019-01-01T00:00:00
+390	PKKI	-2.2411	113.9722	65.0	Station Palangkaraya, Kalimantan, BMG, Indonesia	2007-01-01T00:00:00
+391	PKSI	-4.0428	103.2639	741.0	Station Type B Pagar Alam Utara,Kota Pagar Alam,Sumatera Selatan	2019-01-01T00:00:00
+392	PLAI	-8.8274543	117.7764528	62.0	Plampang, Indonesia	2011-03-04T00:00:00
+393	PLJI	-7.8616	112.1548	232.9	Station Type B Plosoklaten,Kediri,Jawa Timur	2019-01-01T00:00:00
+394	PLKI	-2.2262	113.9453	69.73	Station Palangkaraya, Kalimantan	2007-01-01T00:00:00
+395	PLSI	0.23729	100.55398	133.0	Station Type B Pangkalan Koto Baru,Lima Puluh Koto,Sumatera Barat	2019-01-01T00:00:00
+396	PLSM	1.54	99.6462	88.0	Type MR, Sosa,Padanglawas,Sumatera Utara	2019-01-01T00:00:00
+397	PMBI	-2.9024	104.6993	25.0	GEOFON Station Palembang, Sumatra, Indonesia	2005-12-06T00:00:00
+398	PMCI	-1.17288	119.3477	83.0	Station Type A, Pasangkayu, Mamuju Utara, Sulawesi Barat	2019-01-01T00:00:00
+399	PMMI	0.3738	127.4158	16.0	Station Type A, Pulau Makian,Halmahera Selatan,Maluku Utara	2019-01-01T00:00:00
+400	PMSI	-3.5008	118.9149	306.8	Station Majene, Sulawesi, Indonesia (BMKG)	2009-01-01T00:00:00
+401	POBSI	-4.73985	122.00214	126.0	Poleang, Bombana, Sulawesi Tenggara	2022-09-22T07:45:29.525
+402	POCI	-1.420317	120.656954	10.0	Station Type A, Poso Pesisir,Poso,Sulawesi Tengah	2019-01-01T00:00:00
+403	POKJI	-8.053	112.812	906.0	Poncokusumo, Malang, Jawa Timur	2022-09-22T07:45:29.525
+404	POPJI	-8.26416	111.80227		Tide Gauge network	2016-07-01T00:00:00
+405	PPBI	-2.1616	106.1364	63.55	Station Pangkal Pinang, Bangka	2007-01-01T00:00:00
+406	PPCM	-3.727	119.7269	48.0	Type MR, Patampanua,Pinrang,Sulawesi Selatan	2019-01-01T00:00:00
+407	PPI	-0.455476	100.397217	783.6	Station Padangpanjang, Indonesia	2005-01-01T00:00:00
+408	PPJI	-7.70444	112.6352777	885.0	Tretes, Jawa, Indonesia	2018-10-22T00:00:00
+409	PPJR	-8.20457	111.08801	8.0	REIS Pacitan	2018-07-02T00:00:00
+410	PPLI	-5.74103	105.14486	63.0	Station Type B Punduh Pedada,Pesawaran,Lampung	2019-01-01T00:00:00
+411	PPSI	-2.766	100.01	6.0	Station Pulau Pagai, Sumatra	2008-01-01T00:00:00
+412	PPSM	-5.3182	104.0156	3.0	Type MR, Pesisir Selatan,Pesisir Barat,Lampung	2019-01-01T00:00:00
+413	PPSN	-1.35	100.579	6.0	BPBD KABUPATEN PESISIR SELATAN	2017-01-01T00:00:00
+414	PRJI	-8.07216	110.79178	337.0	Station Type B Pracimantoro,Wonogiri,Jawa Tengah	2019-01-01T00:00:00
+415	PRLJI	-8.232273	113.114018	159.0	Station Type A, Pasiran, Lumajang, Jawa Timur	2022-09-22T07:45:29.525
+416	PRSI	0.37	102.17	0.0	Pelalawan,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
+417	PRSN	-0.7856	100.3048	16.0	Stasiun Meteorologi Kelas II Minangkabau	2015-01-01T00:00:00
+418	PSI	2.695	98.924	1051.0	Station Rantau Prapat, Sumatra, Indonesia (CTBTO)	2006-01-01T00:00:00
+419	PSJCM	-7.06	120.620245	79.0	Station Type MR, Pasimassungu, Kep. Selayar, Sulawesi Selatan	2020-10-01T00:00:00
+420	PSJM	-6.96858	106.54906	205.0	Type MR, Pelabuhan Ratu,Sukabumi,Jawa Barat	2019-01-01T00:00:00
+421	PSLI	-5.93732	105.51004	39.0	Station Type B Rajabasa P. Sibesi,Lampung Selatan,Lampung	2019-01-01T00:00:00
+422	PSSI	2.73532	125.4045	1253.0	Siau, Sulawesi Utara	2018-11-22T00:00:00
+423	PSSM	-5.86438	104.69528	6.0	Type MR, Pematang Sawah,Tanggamus,Lampung	2019-01-01T00:00:00
+424	PSSN	1.5534	98.8969	6.0	STAMET PINANG SORI SIBOLGA	2017-01-01T00:00:00
+425	PTJI	-6.2655167	106.748825	76.0	Station Type B Pondok Aren,Tangerang Selatan,Banten	2019-01-01T00:00:00
+426	PTKI	-0.14195	109.40296	36.0	Station Pontianak, Kalimantan, Indonesia (JISNET)	2006-03-03T00:00:00
+427	PTSM	2.011856	99.166011	1196.0	Type MR, Pangaribuan,Tapanuli Utara,Sumatera Utara	2019-01-01T00:00:00
+428	PUPSI	-1.733	120.676	670.0	Pamona Utara, Poso, Sulawesi Tengah	2023-07-27T07:45:29.525
+429	PWCM	-3.6739	120.4005	102.0	Station Type MR, Pitumpanua, Sulawesi Selatan	2020-01-01T00:00:00
+430	PWJI	-8.021887	111.804112	205.0	Station Pagerwojo, Java	2008-01-01T00:00:00
+431	RAPI	-0.4102	130.8211	108.6	Station RAPI	2006-01-01T00:00:00
+432	RASM	-2.1655	101.0708	100.0	Type MR, Ranah Ampek Hulu Tapan,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
+433	RBSI	-5.84445	105.742	224.44	Station Rajabasa, Sumatra	2008-01-01T00:00:00
+434	RDCM	-1.295483	119.552463	44.0	Type MR, Rio Pakava,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+435	RGRI	-0.3491	102.3338	40.93	Station Rengat, Sumatra	2007-01-01T00:00:00
+436	RHRSI	1.44	100.51	0.0	Rokan  Hilir,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
+437	RITA	-7.163845	110.183745	749.0	Station Type B, Gemawang Temanggung	2021-12-31T00:00:00
+438	RKCM	-2.9402467	121.5806317	495.0	Station Type MR, Rauta, Sulawesi Tenggara	2020-01-01T00:00:00
+439	RKPI	-1.5107	134.1773	106.2	Station Ransiki, Papua; Indonesia (BMKG)	2009-01-01T00:00:00
+440	RLSI	2.0687	99.8455	29.0	Station Type A, Rantau Selatan,Labuhan Batu,Sumatera Utara	2019-01-01T00:00:00
+441	RMSM	-2.62326	102.7617	56.0	Type MR, Rawas Hulu,Musi Rawas,Sumatera Selatan	2019-01-01T00:00:00
+442	RNFM	-8.429345	121.0261133	84.0	Station Type MR, Riung, Ngada, NTT	2020-10-01T00:00:00
+443	RONI	-10.76	123.07	200.3	Station Rote China	2019-11-01T00:00:00
+444	ROTTI	-10.806	123.013	139.0	Rote Barat Daya, Rote Ndao, Nusa Tenggara Timur	2022-09-22T07:45:29.525
+445	RPSI	2.0723	99.8325	78.0	Station Rantau Parapat, Sumatra	2008-01-01T00:00:00
+446	RRHRI	0.571374	100.427397	92.0	Station Type A, Rokan IV Kota, Rokan Hulu, Riau	2022-09-22T07:45:29.525
+447	RRSI	0.84096	100.34611	78.0	Station Type A, Rambah,Rokan Hulu,Riau	2019-01-01T00:00:00
+448	RSJR	-7.33071	106.51978	104.0	REIS Ciracap	2018-01-02T00:00:00
+449	RSNI	-8.91	117.56	0.0	Ropang,  Sumbawa,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+450	RSSM	2.597922	98.782984	1542.0	Type MR, Ronggurnihuta,Samosir,Sumatera Utara	2019-01-01T00:00:00
+451	RTBI	-8.4597	114.942	300.74	Station Rangdo, Negare, Bali, Indonesia (BMKG)	2009-01-01T00:00:00
+452	SAASI	5.562	95.525	42.0	Seulimum, Aceh Besar, Aceh	2022-09-22T07:45:29.525
+453	SADLY	-6.5737854	106.074132	292.0	Station Gunung Kencana, Indonesia	2021-12-23T00:00:00
+454	SAKJI	-7.686	110.155	706.0	Samigaluh, Kulonprogo, DIY	2023-06-10T04:50:00
+455	SAMKI	-0.189252	110.36367	30.0	Sanggau, Meliau, Kalimantan Barat	2023-12-02T08:00:00
+456	SANI	-2.049695	125.988104	24.0	GEOFON Station Sanana, Indonesia	2009-11-26T00:00:00
+457	SAPSI	-1.0	120.464	25.0	Sausu, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
+458	SASI	0.12411	99.87537	168.0	Simpang Empat, Sumatra, Indonesia	2018-10-22T00:00:00
+459	SASM	4.8795	95.4825	104.0	Type MR, Sampoiniet,Aceh Jaya,Aceh	2019-01-01T00:00:00
+460	SASN	2.6583	97.9978	50.0	Noncollocated_DS(Seismotek) Subulussalam	2020-11-17T00:00:00
+461	SATPI	-1.972	138.87	14.0	Sarmi Timur, Sarmi, Papua	2023-08-14T07:45:29.525
+462	SAUI	-7.9826	131.2988	110.0	GEOFON Station Saumlaki, Indonesia	2009-06-29T00:00:00
+463	SBBM	-8.2031	114.9179	111.0	Station Type MR, Seririt, Bali	2020-10-01T00:00:00
+464	SBJI	-6.1117	106.1318	64.48	Station Serang, Indonesia	2006-01-01T00:00:00
+465	SBJM	-7.967995	110.266119	17.0	Type MR, Sanden,Bantul,D.I Yogyakarta	2019-01-01T00:00:00
+466	SBNI	-10.492279	121.846004	14.5	Sabu, Nusa Tenggara Timur	2017-12-01T00:00:00
+467	SBSI	1.3988	99.431	291.51	Station Sibolga, Sumatra	2007-01-01T00:00:00
+468	SBSM	0.1983	99.3775	1.0	Type MR, Sungai Beremas,Pasaman Barat,Sumatera Barat	2019-01-01T00:00:00
+469	SBSSI	-1.206	119.889	221.0	Sigi Biromaru, Sigi, Sulawesi Tengah	2022-09-22T07:45:29.525
+470	SCJI	-7.681	109.16892	45.0	Station Gunung Srandil, Java, BMG, Indonesia	2007-01-01T00:00:00
+471	SCJM	-6.8437	107.2221	327.0	Type MR, Sukaluyu,Cianjur,Jawa Barat	2019-01-01T00:00:00
+472	SCJR	-7.0978	107.13175	910.0	REIS Sukanagara	2018-01-02T00:00:00
+473	SDCI	-0.494155	119.768722	27.0	Station Type A, Sindue,Donggala,Sulawesi Tengah	2019-01-01T00:00:00
+474	SDSI	-0.9325	101.428	213.32	Station Sungai Dareh, Sumatra	2008-01-01T00:00:00
+475	SDSM	2.75379	98.28677	1018.0	Type MR, Sidikalang,Dairi,Sumatera Utara	2019-01-01T00:00:00
+476	SEJI	-7.0051	111.7288	120.0	Station Type B Senori,Tuban,Jawa Timur	2019-01-01T00:00:00
+477	SEJM	-6.8726	108.5852	342.0	Type MR, Sedong,Cirebon,Jawa Barat	2019-01-01T00:00:00
+478	SEME	-6.99317	110.37552	0.0	STASIUN METEOROLOGI SEMARANG	2007-01-01T00:00:00
+479	SEMI	-2.917032	129.820841	60.0	Station Type A, Seram Utara Timur Seti,Maluku Tengah,Maluku	2019-01-01T00:00:00
+480	SGKI	0.530205	117.604347	182.0	Station Sangata, Kalimantan, Indonesia (BMKG)	2009-01-01T00:00:00
+481	SGSI	3.686	125.5286	100.47	Station Sangihe, BMG	2007-01-01T00:00:00
+482	SICJI	-7.472	108.808	68.0	Sidareja, Cilacap, Jawa Tengah	2023-08-14T07:45:29.525
+483	SIJI	-0.86912	131.26605	201.0	Station Sorong, Indonesia (CTBTO AS042)	2010-01-01T00:00:00
+484	SIJM	-7.41011	112.760504	24.0	Type MR, Sidoarjo,Sidoarjo,Jawa Timur	2019-01-01T00:00:00
+485	SIRSI	0.86	101.66	0.0	Siak,  Riau,  Sumatra,  Indonesia	2021-11-26T00:00:00
+486	SISI	-1.3265	99.0895	47.2	Station Saibi, Sumatra	2008-01-01T00:00:00
+487	SISM	4.6082	96.7288	1034.0	Type MR, Silih Nara,Aceh Tengah,Aceh	2019-01-01T00:00:00
+488	SISMI	-1.7806	99.14018	39.0	Siberut Selatan, Kepulauan Mentawai, Sumatera Barat	2022-09-22T07:45:29.525
+489	SIUMI	-1.126	98.98	9.0	Siberut Utara, Kepulauan Mentawai, Sumatera Barat	2023-07-27T07:45:29.525
+490	SJPM	-2.5698	140.502	192.0	Station, Type MR, Sentani, Jayapura	2020-10-01T00:00:00
+491	SKJI	-7.0053	106.5563	100.35	Station Sukabumi, Java	2007-01-01T00:00:00
+492	SKKN	0.94457	109.01528	42.0	BPBD KOTA SINGKAWANG	2010-01-01T00:00:00
+493	SKPM	-3.4485	140.7256	343.0	Station Type MR, Senggi, Keerom, Papua	2020-10-01T00:00:00
+494	SKSI	5.894472	95.31271	12.0	Station Type A, Sukakarya,Kota Sabang,Aceh	2019-01-01T00:00:00
+495	SKSM	-1.946	101.3497	956.0	Type MR, Siulak Mukai,Kerinci,Jambi	2019-01-01T00:00:00
+496	SLBFM	-8.796215	115.934067	77.0	Station Type MR, Sekotong Tengah, Nusa Tenggara Barat	2020-11-01T00:00:00
+497	SLSI	-2.3924	102.5927	76.83	Station Sarolangun, Jambi Indonesia (BMKG)	2009-01-01T00:00:00
+498	SLSM	-0.83132	100.65342	389.0	Type MR, Sungai Lasi,Solok,Sumatera Barat	2019-01-01T00:00:00
+499	SMKI	-0.4461	117.2085	97.28	Station Samarinda, Kalimantan	2007-01-01T00:00:00
+500	SMPI	-1.981115	138.710799	111.0	Station Sarmi, Irian Jaya	2008-01-01T00:00:00
+501	SMRI	-7.04915	110.44067	203.0	GEOFON Station Semarang, Java, Indonesia	2006-11-01T00:00:00
+502	SMSI	0.9885	122.3654	85.39	Station Sumalata, BMG, Indonesia	2012-01-01T00:00:00
+503	SMSM	-0.005923	100.17103	361.0	Type MR, Simpati,Pasaman,Sumatera Barat	2019-01-01T00:00:00
+504	SNBI	0.963245	97.429538	4.0	Station Type A, Sirombu,Nias Barat,Sumatera Utara	2019-01-01T00:00:00
+505	SNJI	-7.7808	111.7591	1341.0	Station Sawahan, Indonesia (JISNET)	2006-01-01T00:00:00
+506	SNSI	2.4089	96.3267	14.48	Station Sinabang, Aceh, Indonesia (BMKG)	2009-01-01T00:00:00
+507	SOEI	-9.7553	124.2672	0.0	GEOFON Station Soe, Indonesia	2008-12-09T00:00:00
+508	SOMPI	-8.431	141.007	38.0	Sota, Merauke, Papua	2022-09-22T07:45:29.525
+509	SPJN	-7.407452	109.25373	152.0	Univ.Jend Sudirman Purwokerto	2018-10-23T00:00:00
+510	SPSI	-3.9646	119.7691	142.0	Station Sidrap, Sulawesi	2008-01-01T00:00:00
+511	SPSJM	-6.6669333	107.6136017	659.0	Station Type MR, Serang Panjang, Jawa Barat	2020-11-01T00:00:00
+512	SPSM	2.51596	98.37383	999.0	Type MR, Sitellu Tali Urang Julu,Pakpak Bharat,Sumatera Utara	2019-01-01T00:00:00
+513	SRBI	-8.0848	115.2126	111.5	Station Singaraja, Bali	2008-01-01T00:00:00
+514	SRMI	-2.941451	129.18185	18.0	Station Type A, Seram Utara,Maluku Tengah,Maluku	2019-01-01T00:00:00
+515	SRPI	-1.876922	136.240169	101.0	Station Serui, Papua, Indonesia (BMKG)	2009-01-01T00:00:00
+516	SRSI	-2.531554	120.877791	36.0	Sorowako, Sulawesi Selatan	2017-12-01T00:00:00
+517	SSASI	2.83	95.925	17.0	Simeulue Barat, Simeulue, Aceh	2022-09-22T07:45:29.525
+518	SSJM	-6.8872	106.9626	841.0	Type MR, Sukaraja,Sukabumi,Jawa Barat	2019-01-01T00:00:00
+519	SSKI	0.817173	108.970255	20.0	Singkawang, Kalimanta	2017-12-01T00:00:00
+520	SSMI	-3.736706	130.828774	65.0	Station Type A, Siritaun Wida Timur,Seram Bagian Timur,Maluku	2019-01-01T00:00:00
+521	SSSI	2.67492	97.97077	56.0	Subulussalam, Sumatra, Indonesia	2018-10-22T00:00:00
+522	SSSM	-1.56407	101.23747	563.0	Type MR, Sangir,Solok Selatan,Sumatera Barat	2019-01-01T00:00:00
+523	SSSN	-0.6636	100.9408	162.0	Noncollocated_DS(Seismotek) Sijunjung	2020-11-12T00:00:00
+524	STKI	0.0656	111.4772	87.78	Station Sintang, Kalimantan	2007-01-01T00:00:00
+525	STPI	-0.46835	132.1256	24.0	Station Type A, Sausapor,Tambrauw,Papua Barat	2019-01-01T00:00:00
+526	STSI	-2.38874	101.04783	16.0	Station Type B Silaut,Pesisir Selatan,Sumatera Barat	2019-01-01T00:00:00
+527	SUPJI	-6.796	105.515	51.0	Sumur, Pandeglang, Banten	2022-09-22T07:45:29.525
+528	SUSM	-5.0212	104.2945	1055.0	Type MR, Sekincau,Lampung Barat,Lampung	2019-01-01T00:00:00
+529	SUSPI	-0.732	135.734	11.0	Supiori Timur, Supiori, Papua	2023-08-07T07:45:29.525
+530	SWCM	-4.2145	120.0109	23.0	Type MR, Sabbang Paru,Wajo,Sulawesi Selatan	2019-01-01T00:00:00
+531	SWI	-0.8628	131.2592	128.88	Station Sorong, Indonesia	2006-01-01T00:00:00
+532	SWJI	-7.7349	111.7669	723.33	Station Sawahan, Java	2007-01-01T00:00:00
+533	SWPM	-0.8035	133.594	172.0	Station Type MR, Sidey, Manokwari, Papua	2020-10-01T00:00:00
+534	SYJI	-7.7483	110.4914	0.0	Sleman,  Yogyakarta,  Jawa,  Indonesia	2021-11-26T00:00:00
+535	TAGJI	-8.077	110.585	243.0	Tanjungsari, Gunung Kidul, DIY	2023-06-11T05:00:00
+536	TAJN	-8.0779	111.9071	120.0	BPBD TULUNG AGUNG	2016-01-01T00:00:00
+537	TAMI	-3.675906	128.110803	101.0	Station Type A, Teluk Ambon,Kota Ambon,Maluku	2019-01-01T00:00:00
+538	TAPSI	-3.332	119.249	56.0	Tapango, Polewali Mandar, Sulawesi Barat	2022-09-22T07:45:29.525
+539	TARAI	3.32712	117.57037	95.0	Station Tarakan, Kalimantan, Indonesia (JISNET)	2000-01-01T00:00:00
+540	TASE	-6.3519	106.6626	86.0	ORTN BRIN Serpong	2010-01-01T00:00:00
+541	TASI	-0.3241	100.0791	25.0	Station Type A, Tanjung Raya,Agam,Sumatera Barat	2019-01-01T00:00:00
+542	TASSI	2.347	125.386	46.0	Tagulandang, Siau Tagulandang Biaro, Sulawesi Utara	2022-09-22T07:45:29.525
+543	TBCM	-4.9117704	120.28299	64.0	Type MR, Tonra,Bone,Sulawesi Selatan	2019-01-01T00:00:00
+544	TBJI	-6.8179	111.8481	54.45	Station Tambak Boyo, Java	2008-01-01T00:00:00
+545	TBJKI	-1.847503	115.624908	81.6	Jaro, Tabalong, Kalimantan Selatan	2023-12-21T08:00:00
+546	TBKI	2.136	117.4241	22.0	Station Type A, Teluk Bayur,Berau,Kalimantan Timur	2019-01-01T00:00:00
+547	TBMCM	0.7139	124.59	254.0	Station Type MR, Tutuyan, Bolaang Timur, Mongondow, Manado	2020-10-01T00:00:00
+548	TBMUI	-1.9	124.344	8.0	Taliabu Barat, Pulau Taliabu, Maluku Utara	2023-08-07T07:45:29.525
+549	TDNI	0.574382	97.819617	59.0	Teluk Dalam, Pulau Nias	2017-12-01T00:00:00
+550	TEBBI	-8.151183	115.373344	301.5	Tejakula, Buleleng, Bali	2023-12-04T00:00:00
+551	TGCM	0.5201	123.0778	163.0	Type MR, Telaga,Gorontalo,Gorontalo	2019-01-01T00:00:00
+552	TGJI	-6.8679	109.121	43.84	Station Tegal, Java	2007-01-01T00:00:00
+553	TIKSI	-3.977	121.866	137.0	Tinondo, Kolaka Timur, Sulawesi Tenggara	2022-09-22T07:45:29.525
+554	TIPSI	0.489	120.419	41.0	Tinombo \/ Palasa, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
+555	TKJN	-7.9028	110.0656	50.0	Stasiun Meteorologi Kulon Progo	2017-01-01T00:00:00
+556	TKSM	3.1374	98.3244	720.0	Type MR, Tiganderket,Karo,Sumatera Utara	2019-01-01T00:00:00
+557	TLCM	-2.50925	120.79436	86.0	Type MR, Tomoni,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
+558	TLE	-5.6373	132.7373	113.0	Station Tual, Indonesia	2005-01-01T00:00:00
+559	TLE2	-5.69943	132.73952	34.0	Station Tual, Kai, JISNET, Indonesia	2010-01-01T00:00:00
+560	TMSI	1.294812	124.925571	771.0	Station TMSI	2013-01-01T00:00:00
+561	TMSM	-2.69954	101.44633	118.0	Type MR, Teramang Jaya,Mukomuko,Bengkulu	2019-01-01T00:00:00
+562	TMTMM	-3.2979	129.53	90.0	Station Type MR, Tehoru, Maluku Tengah	2020-10-01T00:00:00
+563	TNG	-6.1719	106.6469	51.25	Station Tangerang, Indonesia	2006-01-01T00:00:00
+564	TNGI	-6.172	106.647	40.0	Station Tangerang China	2006-01-01T00:00:00
+565	TNSR	1.46933	97.44152	0.0	REIS Tuhemberua	2018-07-02T00:00:00
+566	TNTI	0.7718	127.3667	43.0	GEOFON Station Ternate, Indonesia	2007-01-05T00:00:00
+567	TNTN	-9.4572	124.4741	438.0	Noncollocated_DS(Seismotek) Timor Tengah Utara	2020-10-29T00:00:00
+568	TOBSI	-1.446	122.25	43.0	Toili, Banggai, Sulawesi Tengah	2022-09-22T07:45:29.525
+569	TOCM	-2.647398	121.408032	342.0	Type MR, Towuti,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
+570	TOJI	-6.7621	108.1344	73.0	Station Type B Tomo,Sumedang,Jawa Barat	2019-01-01T00:00:00
+571	TOLI2	1.11119	120.78174	51.0	GEOFON Station Tolitoli, Sulawesi, Indonesia	2011-07-14T00:00:00
+572	TOTSI	-1.15292	121.28416	24.0	Tojo, Tojo Una-Una, Sulawesi Tengah	2022-09-22T07:45:29.525
+573	TPCI	0.467467	121.099286	13.0	Station Type A, Taopa,Parigi Moutong,Sulawesi Tengah	2019-01-01T00:00:00
+574	TPI	-2.75633	107.65345	25.0	Station Tanjung Pandang, Belitung, Indonesia	2006-12-22T00:00:00
+575	TPRI	0.9193	104.5208	41.46	Station Tanjung Pinang, Sumatra	2007-01-01T00:00:00
+576	TPSI	4.923159	96.017023	54.0	Station Type A, Tangse,Pidie,Aceh	2019-01-01T00:00:00
+577	TPTI	3.2618	97.1774	2.8	Station Tapaktuan China	2006-01-01T00:00:00
+578	TRIYO	-2.0601	99.583	88.0	Station Type MR, Sipora Selatan, Kep. Mentawai	2020-10-01T00:00:00
+579	TRPI	-6.0989	140.3	99.0	Tanah Merah, Papua	2019-10-24T00:00:00
+580	TRSI	2.0256	98.9594	978.5	Station Tarutung, Sumatra	2007-01-01T00:00:00
+581	TSI	3.5012	98.5645	89.27	Station Tuntungan, Indonesia	2006-01-01T00:00:00
+582	TSJM	-6.7319	107.8109	420.0	Type MR, Tanjungsiang,Subang,Jawa Barat	2019-01-01T00:00:00
+583	TSJN	-7.32	108.22	92.0	BPBD Tasikmalaya - VSAT	2014-11-21T00:00:00
+584	TSJR	-7.42336	106.71913	91.0	REIS Tegalbuleud	2018-01-02T00:00:00
+585	TSNI	-8.71	118.28	0.0	Tarano,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+586	TSPI	-1.4733	132.0898	62.0	Station Type A, Teminabuan,Sorong Selatan,Papua Barat	2019-01-01T00:00:00
+587	TTPSI	-4.818388	119.761719	365.0	Station Type A, Tondong Talasa, Pangkep, Sulawesi Selatan	2022-09-22T07:45:29.525
+588	TTSI	-3.0451	119.819	950.4	Station Tana Toraja, Sulawesi	2008-01-01T00:00:00
+589	TTSM	1.0856	99.4108	173.0	Type MR, Tano Tombangan Angkola,Tapanuli Selatan,Sumatera Utara	2019-01-01T00:00:00
+590	TTSMI	-2.864	128.727	11.0	Taniwel Timur, Seram Bagian Barat, Maluku	2023-08-05T07:45:29.525
+591	TUJI	-8.4018	113.7322	79.0	Station Type B Tumpakrejo,Jember,Jawa Timur	2019-01-01T00:00:00
+592	TWSI	-8.7381	116.8821	86.6	Station Taliwang, Sumbawa, Indonesia (BMKG)	2009-01-01T00:00:00
+593	UASN	5.07691	97.30382	40.0	Noncollocated_DS(Seismotek) Aceh Utara	2020-11-17T00:00:00
+594	UBSI	-3.7611	102.2714	28.05	Station Bengkulu, Sumatra, Indonesia (BMKG)	2006-01-01T00:00:00
+595	UGM	-7.9125	110.5231	350.0	GEOFON Station Wanagama, Indonesia	2006-06-29T00:00:00
+596	UIDB	-6.349021	106.826926	81.2	UIDB	2019-01-01T00:00:00
+597	UIDS	-6.349112	106.826683	54.3	UIDS	2019-01-01T00:00:00
+598	UKCM	-3.857	122.0431	122.0	Station Type MR, Unaaha, Sulawesi Tenggara	2020-11-01T00:00:00
+599	ULMSI	-3.052255	118.874557	476.7	Ulumanda, Majene, Sulawesi Barat	2023-12-04T00:00:00
+600	ULSM	-3.7588	102.7941	284.0	Type MR, Ulu Musi,Empat Lawang,Sumatera Selatan	2019-01-01T00:00:00
+601	UMKSI	-3.59	102.548	709.0	Ujan Mas, Kepahiang, Bengkulu	2022-09-22T07:45:29.525
+602	UMSSI	-9.897	120.661	50.0	Umalulu, Sumba Timur, Nusa Tenggara Timur	2023-07-31T07:45:29.525
+603	USFM	-8.41198	117.14111	85.0	Station Type MR, Utan, Nusa Tenggara Barat	2020-11-01T00:00:00
+604	USTI	-9.6543	119.7878	449.0	Station Type A, Umbu Ratu Nggay,Sumba Tengah,Nusa Tenggara Timur	2019-01-01T00:00:00
+605	UTSI	-5.31257	104.55095	882.0	Station Type B Ulu Belu,Tanggamus,Lampung	2019-01-01T00:00:00
+606	UTSM	-4.08339	102.72849	113.0	Type MR, Ulu Talo,Seluma,Bengkulu	2019-01-01T00:00:00
+607	UTUSI	-0.427364	121.860561	76.0	Station Type A, Una-Una, Tojo Una-Una, Sulawesi Tengah	2022-09-22T07:45:29.525
+608	UWJI	-6.4191	110.9474	61.52	Station Ujung Watu, Java	2009-01-01T00:00:00
+609	UWNPI	-3.479	135.587	117.0	Uwapa, Nabire, Papua	2023-08-04T07:45:29.525
+610	WAMI	-4.09593	138.95004	1673.0	Station Wamena, Irian Jaya	2008-09-05T00:00:00
+611	WANPI	-3.421	135.376	12.0	Wanggar, Nabire, Papua	2022-09-22T07:45:29.525
+612	WBMI	0.3393	127.8708	25.0	Station Type A, Weda Barat,Halmahera Tengah,Maluku Utara	2019-01-01T00:00:00
+613	WBNI	-8.3026	118.8872	0.0	Wera,  Bima,  Nusa  Tenggara  Barat,  Indonesia	2021-11-26T00:00:00
+614	WBSI	-9.6411	119.3911	456.67	Station Waikabubak, Sumba, Indonesia (BMKG)	2009-01-01T00:00:00
+615	WEFM	-8.6069517	121.7178533	114.0	Station Type MR, Wewaria, Ende, NTT	2020-10-01T00:00:00
+616	WFTFM	-8.5247	122.71	354.0	Staation Type MR, Wulanggitang, Flores Timur, NTT	2020-10-01T00:00:00
+617	WGJM	-7.3833	112.5098	35.0	Type MR, Wringianom,Gresik,Jawa Timur	2019-01-01T00:00:00
+618	WGJR	-7.967	110.603933	208.0	REIS Wonosari Gunung Kidul	2018-07-02T00:00:00
+619	WHMI	1.0825	128.132	41.0	Station Type A, Wasile,Halmahera Timur,Maluku Utara	2019-01-01T00:00:00
+620	WKCM	-3.8259	121.2993	116.0	Station Type MR, Wolo, Sulawesi Tenggara	2020-11-01T00:00:00
+621	WLFM	-8.5311	123.4499	80.0	Station Type MR, Wulandoni, Lembata, NTT	2020-10-01T00:00:00
+622	WLJI	-6.8310983	105.8909467	46.0	Station Type B Wonosalam,Lebak,Banten	2019-01-01T00:00:00
+623	WLPU	-6.3823	107.3603	33.0	BMG-Net, Indonesia (IA-Net)	2019-10-31T00:00:00
+624	WLTFM	-8.51818	116.5407	533.0	Station Type MR, Wanasaba, Nusa Tenggara Barat	2020-11-01T00:00:00
+625	WMCM	-2.2162	121.622	7.0	Type MR, Wita Ponda,Morowali,Sulawesi Tengah	2019-01-01T00:00:00
+626	WOJI	-7.8372	110.9236	183.62	Station Wonogiri, Java, Indonesia (BMKG)	2009-01-01T00:00:00
+627	WRJI	-7.81129	113.74565	491.0	Station Type B Curahdami,Bondowoso,Jawa Timur	2019-01-01T00:00:00
+628	WSHHI	0.764	127.813	24.0	Wasile Selatan, Halmahera Timur, Maluku Utara	2022-09-22T07:45:29.525
+629	WSI	-9.6689	120.297666	48.0	Station Waingapu, JISNET Indonesia	2005-01-01T00:00:00
+630	WSJM	-6.97472	106.7247	310.0	Type MR, Warungkiara,Sukabumi,Jawa Barat	2019-01-01T00:00:00
+631	WSTMM	-3.45296	129.995	86.0	Station Type MR, Werinama, Maluku	2020-11-01T00:00:00
+632	WTKSI	-4.03	123.22	21.0	Wawonii Timur Laut, Konawe Kepulauan, Sulawesi Tenggara	2022-09-22T07:45:29.525
+633	WUPCM	-3.0063	120.1927	94.0	Station Type MR, Wara Utara, Sulawesi Selatan	2020-11-01T00:00:00
+634	WWCI	-5.2724	123.5251	26.0	Station Type A, Wangi-wangi,Wakatobi,Sulawesi Tenggara	2019-01-01T00:00:00
+635	WWPI	-2.313	136.3773	16.0	Station Type A, Waropen Bawah,Waropen,Papua	2019-01-01T00:00:00
+636	YBYPI	-1.831	136.063	32.0	Yapen Barat, Kepulauan Yapen, Papua	2022-09-22T07:45:29.525
+637	YOGI	-7.8166	110.295	176.0	Station Yogyakarta China	2006-01-01T00:00:00
+638	YOGI2	-7.82	110.29	148.097	YOGI2	2023-11-14T07:46:33
