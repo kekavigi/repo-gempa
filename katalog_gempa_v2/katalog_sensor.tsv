@@ -553,7 +553,7 @@
 551	TGCM	0.5201	123.0778	163.0	Type MR, Telaga,Gorontalo,Gorontalo	2019-01-01T00:00:00
 552	TGJI	-6.8679	109.121	43.84	Station Tegal, Java	2007-01-01T00:00:00
 553	TIKSI	-3.977	121.866	137.0	Tinondo, Kolaka Timur, Sulawesi Tenggara	2022-09-22T07:45:29.525
-554	TIPSI	0.489	120.419	41.0	Tinombo \/ Palasa, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
+554	TIPSI	0.489	120.419	41.0	Tinombo / Palasa, Parigi Moutong, Sulawesi Tengah	2022-09-22T07:45:29.525
 555	TKJN	-7.9028	110.0656	50.0	Stasiun Meteorologi Kulon Progo	2017-01-01T00:00:00
 556	TKSM	3.1374	98.3244	720.0	Type MR, Tiganderket,Karo,Sumatera Utara	2019-01-01T00:00:00
 557	TLCM	-2.50925	120.79436	86.0	Type MR, Tomoni,Luwu Timur,Sulawesi Selatan	2019-01-01T00:00:00
@@ -638,3 +638,21 @@
 636	YBYPI	-1.831	136.063	32.0	Yapen Barat, Kepulauan Yapen, Papua	2022-09-22T07:45:29.525
 637	YOGI	-7.8166	110.295	176.0	Station Yogyakarta China	2006-01-01T00:00:00
 638	YOGI2	-7.82	110.29	148.097	YOGI2	2023-11-14T07:46:33
+614719	AAI	-3.687158	128.194313	100.0	Station LIBRA, Karang Panjang, Sirimau, Kota Ambon, Maluku	2006-01-01T00:00:00
+614720	AAII	-3.687158	128.194331	100.0	Station ex-CEA, Karang Panjang, Sirimau, Kota Ambon, Maluku	2006-12-01T00:00:00
+614795	BSMI	-3.107622	130.49381	45.0	Station Bula, Tansi Ambon, Bula, Seram Bagian Timur, Maluku	2016-11-26T00:00:00
+614884	IGBI	-8.818	115.146	248.0	Station Ingas Bali China	2006-12-01T00:00:00
+614928	KJPI	-6.155971	106.842266			2024-09-10T04:13:03
+614940	KLSI	-4.6871	104.7317	80.7	Station Kotabumi China	2007-07-01T00:00:00
+614951	KRAI	-3.318365	128.394745	61.0	Station LIBRA, Ursana, Kairatu, Seram Bagian Barat , Maluku (BMKG)	2009-10-20T00:00:00
+615042	MSAI	-3.346211	128.928436	8.9	Station LIBRA, Soahuku, Amahai, Maluku Tengah, Maluku	2007-01-01T00:00:00
+615062	NBMI	-3.85093	126.69958	71.0	Station Type A, Lektama,  Namrole, Buru Selatan, Maluku	2019-01-01T00:00:00
+615069	NSBMM	-3.082908	128.209544	65.0	Station Type MR, Neniari, Seram Barat, Seram Bagian Barat, Maluku	2020-10-01T00:00:00
+615198	SEMI	-2.917031	129.820817	69.0	Station Type A, Kobisadar, Seram Utara Timur Kobi, Maluku Tengah, Maluku	2019-01-01T00:00:00
+615233	SRMI	-2.941485	129.181801	6.0	Station Type A, Olong, Seram Utara, Maluku Tengah, Maluku	2019-01-01T00:00:00
+615239	SSMI	-3.736807	130.828808	10.0	Station Type A, Kian Laut, Siritaun Wida Timur, Seram Bagian Timur, Maluku	2019-01-01T00:00:00
+615256	TAMI	-3.675906	128.110803	174.0	Station Type A, Tawiri, Teluk Ambon, Kota Ambon, Maluku	2019-01-01T00:00:00
+615281	TMTMM	-3.29802	129.53044	17.0	Station Type MR, Japutih, Tehoru, Maluku Tengah, Maluku	2020-10-01T00:00:00
+615296	TPTI	3.2618	97.1774	2.8	Station Tapaktuan China	2008-05-01T00:00:00
+615350	WSTMM	-3.453018	129.995	18.0	Station Type MR, Werinama, Werinama, Seram Bagian Timur, Maluku	2020-11-01T00:00:00
+615356	YOGI	-7.8166	110.295	176.0	Station Yogyakarta China	2007-12-01T00:00:00
