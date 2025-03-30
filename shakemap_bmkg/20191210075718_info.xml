@@ -1,0 +1,26 @@
+<info evid="20191210075718" tags="grind_time,datafiles,src_mech,faultfiles,median_dist,map_bound,site_correction,sitecorr_source,sitecorr_regime,pgm2mi,miscale,mi2pgm,GMPE,bias,bias_log_amp,mi_bias,pga_max,pgv_max,mi_max,psa03_max,psa10_max,psa30_max,mean_uncertainty,grade">
+  <tag name="grind_time" value="Mon Dec  9 20:55:41 GMT 2019&#10;" desc="Start time for event processing" />
+  <tag name="datafiles" value="db_dat.xml" desc="List of input files" />
+  <tag name="src_mech" value="ALL" desc="Source mechanism (based on gmpe)" />
+  <tag name="faultfiles" value="" desc="List of fault files" />
+  <tag name="median_dist" value="no" desc="Median distance used" />
+  <tag name="map_bound" value="117.480000/121.480000/-4.858000/-0.862000" desc="Boundary of event map" />
+  <tag name="site_correction" value="GMPE native" desc="Site correction applied (none|disabled|Borcherdt table|old-style Borcherdt table|GMPE native" />
+  <tag name="sitecorr_source" value="from topography" desc="Vs30 site file|&quot;from topography&quot;" />
+  <tag name="sitecorr_regime" value="active" desc="Computed site correction regime (stable|active)" />
+  <tag name="pgm2mi" value="GMICE::WGRW11 - Worden et al. (2011)" desc="Intensity Function" />
+  <tag name="miscale" value="scale_wgrw11.ps" desc="Intensity Scale" />
+  <tag name="mi2pgm" value="GMICE::WGRW11 - Worden et al. (2011)" desc="Inverse Intensity Function" />
+  <tag name="GMPE" value="GMPE::BA08" desc="GMPE type" />
+  <tag name="bias" value="0.00 0.00 0.00 0.00 0.00 " desc="magnitude bias (pga pgv psa03 psa10 psa30 )" />
+  <tag name="bias_log_amp" value="yes" desc="Used log amp to compute bias?" />
+  <tag name="mi_bias" value="0.00" desc="magnitude bias for Intensity" />
+  <tag name="pga_max" value="2.09" desc="Max value of grid" />
+  <tag name="pgv_max" value="0.29" desc="Max value of grid" />
+  <tag name="mi_max" value="3.26" desc="Max value of grid" />
+  <tag name="psa03_max" value="0.74" desc="Max value of grid" />
+  <tag name="psa10_max" value="0.13" desc="Max value of grid" />
+  <tag name="psa30_max" value="0.00" desc="Max value of grid" />
+  <tag name="mean_uncertainty" value="-" desc="Mean of map uncertainty" />
+  <tag name="grade" value="-" desc="Empirical ShakeMap Grade" />
+</info>
