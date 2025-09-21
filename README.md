@@ -2,7 +2,7 @@
 
 This dataset is taken from the Earthquake Repository managed by BMKG (an Indonesian non-departmental government agency). BMKG changed their site design in early 2023, and this resulted in two different datasets.
 
-The new dataset ([`katalog_gempa_v2.tsv`](https://github.com/kekavigi/repo-gempa/blob/main/katalog_gempa_v2/katalog_gempa_v2.tsv)) is taken from the *Preliminary Earthquake Catalog* which includes focal mechanism data (if any). It contains earthquake event data from 1 Nov 2008 to 15 Dec 2023, but may not be accurate for some of the last earthquake events recorded. There are 38 variables in this dataset, each with a descriptive name. On the other hand, the old dataset ([`katalog_gempa.csv`](https://github.com/kekavigi/repo-gempa/blob/main/katalog_gempa/katalog_gempa.csv)) contains earthquake event data from 1 Nov 2008 to 26 Jan 2023. The variables collected in this dataset are:
+The new dataset ([`katalog_gempa_v2.tsv`](https://github.com/kekavigi/repo-gempa/blob/main/katalog_gempa_v2/katalog_gempa_v2.tsv)) is taken from the *Preliminary Earthquake Catalog* which includes focal mechanism data (if any). It contains earthquake event data from 1 Nov 2008 to 15 Dec 2023, but may not be accurate for some of the last earthquake events recorded. There are 38 variables in this dataset, each with a descriptive name. On the other hand, the old dataset ([`katalog_gempa.csv`](https://github.com/kekavigi/repo-gempa/blob/main/katalog_gempa/katalog_gempa.csv)) contains earthquake event data from 1 Nov 2008 to 20 Sep 2025. The variables collected in this dataset are:
 
 - `tgl`: date of the event
 - `ot`: timestamp of the event
